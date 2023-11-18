@@ -1,0 +1,573 @@
+,price_per_sqft,city,county,state,streetAddress,bedrooms,bathrooms,price,livingAreaValue,lotSize_sqft,yearBuilt,zipcode,rentZestimate,zestimate,propertyTaxRate,neighborhoodRegion_name,agentName,agent_businessName,architecture_style,year_built,agency_compensation%
+0,919.2081850533808,San Jose,Santa Clara County,CA,0 Bertram Rd,3.085964912280702,2.2530755711775043,700000,1826.2568965517241,13076.0,,95120,,,0.77,,Dan Belveal,Belveal Properties,,,
+1,919.2081850533808,San Jose,Santa Clara County,CA,0 Telegraph Dr,3.085964912280702,2.2530755711775043,200000,1826.2568965517241,2347.0,,95132,,,0.77,Berryessa,Dan Belveal,Belveal Properties,,,
+2,1157.0,San Francisco,San Francisco County,CA,1 Hawthorne St UNIT 17F,2.0,2.0,1598000,1381.0,12410.0,2010,94105,5899,1571900,0.67,South of Market,Connie Chung,Willowmar Real Estate,Contemporary,2010,2.5
+3,1126.0,San Francisco,San Francisco County,CA,1 Stanyan St #21,2.0,2.0,1385000,1230.0,7603.0,2018,94118,5100,1385100,0.67,Lone Mountain,Natalie Rome,Compass,Modern/High Tech,2018,2.5
+4,919.2081850533808,San Francisco,San Francisco County,CA,100 Duboce Ave #A2,0.0,1.0,598000,0.0,4499.0,0,94103,,,0.67,South of Market,Loring M. Aguillon-Racine,JS Sullivan Sales and Marketin,"Contemporary,Modern/High Tech",0,2.5
+5,1288.0,San Francisco,San Francisco County,CA,100 Duboce Ave #G4,2.0,2.0,1298000,1008.0,4499.0,0,94103,,,0.67,South of Market,Loring M. Aguillon-Racine,JS Sullivan Sales and Marketin,"Contemporary,Modern/High Tech",0,2.5
+6,1715.0,San Francisco,San Francisco County,CA,1000 N Point St APT 1505,0.0,1.0,650000,379.0,26401.0,1963,94109,5424,646400,0.0,Aquatic Park,David Parry,Sotheby's International Realty,Mid-Century,1963,2.5
+7,1021.0,San Francisco,San Francisco County,CA,1001 Pine St UNIT 509,1.0,1.0,629000,616.0,18906.0,1963,94109,3190,628600,0.67,Lower Nob Hill,Ilya C. Tsay,Vanguard Properties,,1963,2.5
+8,1011.0,San Jose,Santa Clara County,CA,10060 Kenilworth Way,2.0,1.0,849000,840.0,9252.0,1953,95127,2699,785700,0.77,,Martin Chavez,Intero Real Estate Services,,1953,
+9,932.0,San Francisco,San Francisco County,CA,101 Lombard St APT 104E,1.0,1.0,960000,1030.0,113438.0,1983,94111,,,0.67,Telegraph Hill,Lisa M. Marroquin,Park North Real Estate,Contemporary,1983,2.5
+10,850.0,San Francisco,San Francisco County,CA,101 Lombard St APT 714W,1.0,1.0,875000,1030.0,0.0,1983,94111,3899,868243,0.67,Telegraph Hill,Gail Y. Grendahl,Compass,Contemporary,1983,2.5
+11,1034.0,San Francisco,San Francisco County,CA,1050 N Point St APT 206,1.0,1.0,699000,676.0,26401.0,1963,94109,3300,699000,0.0,Aquatic Park,Aaron M Bellings,Compass,"Contemporary,Mid-Century",1963,2.5
+12,892.0,San Francisco,San Francisco County,CA,1050 N Point St APT 302,2.0,1.0,899000,1008.0,26401.0,1963,94109,4500,907433,0.67,Aquatic Park,Silvia E. Damen,"eXp Realty of California, Inc",,1963,2.5
+13,1267.0,San Francisco,San Francisco County,CA,1050 N Point St APT 305,0.0,1.0,489000,386.0,26401.0,1963,94109,5650,489000,0.0,Aquatic Park,Mimi A. Bruce,Compass,Mid-Century,1963,2.5
+14,975.0,San Jose,Santa Clara County,CA,1064 Big Sur Dr,3.0,3.0,1499000,1538.0,3075.0,1985,95120,3399,1510588,0.77,Almaden Valley,Farhad Ettehad,Americhoice Inc,,1985,
+15,855.0,San Jose,Santa Clara County,CA,1065 Woodbine Way,2.0,2.0,1479000,1730.0,7562.0,1959,95117,3599,1533900,0.77,West San Jose,Diane Leland,Legacy Real Estate & Associates,,1959,
+16,687.0,San Jose,Santa Clara County,CA,1069 Mazzone Dr,4.0,3.0,2250000,3273.0,8786.0,1979,95120,5999,2250000,0.77,Almaden Valley,Yost Group,Coldwell Banker Realty,Traditional,1979,
+17,663.0,San Jose,Santa Clara County,CA,1086 Bigleaf Pl UNIT 102,3.0,3.0,1250000,1884.0,8884.478927203065,2016,95131,4235,1265764,0.77,North Valley,Serena Zhang,Coldwell Banker Realty,,2016,
+18,960.0,Santa Clara,Santa Clara County,CA,1095 Madison St,4.0,2.0,1498000,1560.0,5989.0,1906,95050,4550,1560500,0.77,,Henry Huan Ton,NNY Real Estate Services,,1906,
+20,828.0,San Francisco,San Francisco County,CA,1101 Silliman St,3.0,2.0,1200000,1450.0,1742.0,1974,94134,4498,944900,0.67,University Mound,Suzanne Rocha,Cal Home,Traditional,1974,2.50
+21,586.0,San Jose,Santa Clara County,CA,1103 Dinkel Ct,3.0,3.0,949000,1619.0,2103.0,1981,95118,3811,959662,0.77,Cambrian Park,John Wunderlich,Wunderlich Realty,,1981,
+22,1073.0,San Francisco,San Francisco County,CA,112 Yukon St,3.0,3.0,1995000,1859.0,1934.0,1941,94114,7500,2110400,0.67,Eureka Valley,Anthony L. Koutsos,KW Advisors,,1941,2.5
+23,561.0,San Francisco,San Francisco County,CA,1123 Clay St,3.085964912280702,0.0,2850000,5076.0,1912.0,1921,94108,2795,2820000,0.67,Nob Hill,Carlos Moralejo,Marcus & Millichap,,1921,2.5
+24,856.0,San Jose,Santa Clara County,CA,1126 Flaxwood St,4.0,3.0,2300000,2688.0,8306.0,1986,95120,5499,2300484,0.77,Almaden Valley,Kenneth Lutz,Intero Real Estate Services,,1986,
+25,880.0,Santa Clara,Santa Clara County,CA,113 Cronin Dr,3.0,3.0,1750000,1988.0,7688.0,1958,95051,5249,1813636,0.77,,Wister Chu,Coldwell Banker Realty,Ranch,1958,
+26,847.0,Santa Clara,Santa Clara County,CA,1134 Pomeroy Ave,4.0,3.0,1249800,1476.0,653.0,1963,95051,4350,1299791,0.77,,Jenny Deng,Coldwell Banker Realty,Eichler,1963,
+27,1064.0,San Jose,Santa Clara County,CA,1137 Campbell Ave,2.0,1.0,958000,900.0,3397.0,1937,95126,,,0.77,North San Jose,Carl San Miguel,Highland Properties,Spanish,1937,
+28,951.0,San Francisco,San Francisco County,CA,114 Albion St,2.0,1.0,699000,735.0,0.0,0,94110,,,0.67,Mission Dolores,Anthony L. Koutsos,KW Advisors,,0,2.5%
+29,919.2081850533808,San Francisco,San Francisco County,CA,1148 Montgomery St #F,0.0,1.0,449000,0.0,2326.0,1906,94133,,,0.67,Telegraph Hill,Laura A. Rogers,Compass,,1906,2.5%
+30,454.0,San Francisco,San Francisco County,CA,115 Plymouth Ave #C,4.0,2.0,999950,2203.0,3500.0,0,94112,,,0.67,,Dung Quoc Tran,RE/MAX Gold Daly City,,0,2.5
+31,784.0,San Jose,Santa Clara County,CA,1154 Angmar Ct,3.0,2.0,1350000,1722.0,6185.0,1977,95121,3913,1370659,0.77,Edenvale - Seven Trees,Thu Le,Alliance Bay Realty,,1977,
+32,1202.0,San Francisco,San Francisco County,CA,1170 Sacramento St APT 5A,2.0,3.0,2495000,2075.0,0.0,1963,94108,,,0.67,Nob Hill,Alexander Hachiya,Sotheby's International Realty,,1963,2.5
+33,832.0,San Francisco,San Francisco County,CA,1175 Burrows St,3.0,2.0,1300000,1562.0,2495.0,1958,94134,4500,1094700,0.67,University Mound,Joshua M Scerri,Livxplore RE & Lifestyle,Traditional,1958,2.5
+34,1070.0,San Francisco,San Francisco County,CA,1177 California St APT 625,1.0,1.0,699000,653.0,31663.0,1978,94108,3200,722700,0.67,Nob Hill,Sam Buckwalter,Compass,Traditional,1978,2.5
+35,430.0,San Francisco,San Francisco County,CA,1179 Palou Ave,6.0,4.0,799000,1857.0,2495.0,1961,94124,5100,1013800,0.67,Hunters Point,Hoi Yin Fion Yau,Coldwell Banker Realty,,1961,2.5
+36,864.0,San Francisco,San Francisco County,CA,1187 Burrows St,3.0,2.0,1350000,1562.0,2500.0,1958,94134,4500,1383900,0.67,University Mound,The Patty Dwyer Group,Compass,,1958,
+37,815.0,San Jose,Santa Clara County,CA,1187 Krebs Ct,4.0,3.0,1468000,1802.0,3959.0,1988,95131,4200,1432048,0.77,North Valley,David Lee,"Christopher Lee, broker",,1988,
+38,826.0,San Francisco,San Francisco County,CA,119 Middlefield Dr,4.0,2.0,1499000,1815.0,3301.0,1950,94132,5100,,0.67,Merced Manor,Tanya Bolshakoff,Compass,Mid-Century,1950,2.5
+39,964.0,San Francisco,San Francisco County,CA,120-122 Alpine Ter,4.0,2.0,2395000,2485.0,2674.0,1900,94117,4749,2425075,0.67,Buena Vista,Sunae K. Chon,Avenue 8 Inc.,Victorian,1900,2.5%
+40,927.0,San Francisco,San Francisco County,CA,120 Putnam St,3.0,4.0,2900000,3128.0,1742.0,1923,94110,10999,2963900,0.67,Bernal Heights,Frank Valdez,Compass,Other,1923,2.5
+41,930.0,San Francisco,San Francisco County,CA,1200 Gough St UNIT 23A,2.0,2.0,1395000,1500.0,44675.0,1966,94109,6439,1395000,0.67,Cathedral Hill,Gregory R. Onzo-Tasher,Vanguard Properties,Contemporary,1966,2.50
+42,910.0,San Francisco,San Francisco County,CA,1200 Gough St UNIT 9D,1.0,1.0,819000,900.0,44675.0,1966,94109,,,0.67,Cathedral Hill,Michael H. Shaw,Vanguard Properties,Mid-Century,1966,2.5
+43,628.0,San Francisco,San Francisco County,CA,1200 Pacific Ave,6.0,3.0,2695000,4290.0,2308.0,1913,94109,,,0.67,Russian Hill,John M. Antonini,Compass,,1913,2.5
+44,1129.0,San Jose,Santa Clara County,CA,1216 Champagne Ln,3.0,2.0,1495000,1324.0,6921.0,1959,95132,3614,1462750,0.77,Berryessa,Valerie Trang,Infiniti Real Estate,,1959,
+45,545.0,San Francisco,San Francisco County,CA,1227 Masonic Ave,3.085964912280702,0.0,3350000,6150.0,2996.0,1905,94117,,,0.67,Haight,Clinton Textor,Marcus & Millichap,,1905,2%
+46,673.0,San Francisco,San Francisco County,CA,1227 Waller St,6.0,4.0,2895000,4300.0,3150.0,1904,94117,3199,,0.67,Buena Vista,Mark E. Best,Coldwell Banker Realty,Edwardian,1904,2.5
+47,1331.0,San Jose,Santa Clara County,CA,1235 Magnolia Ave,2.0,1.0,1288000,968.0,5362.0,1937,95126,3195,1302890,0.77,Downtown,Rachel Regal,Coldwell Banker Realty,,1937,
+48,1348.0,San Francisco,San Francisco County,CA,1238 Sutter St UNIT 405,2.0,1.0,929000,689.0,4830.0,2018,94109,3699,929004,0.67,Lower Nob Hill,Grant Edward Beggs,Sotheby's International Realty,Modern/High Tech,2018,2.5
+49,696.0,San Francisco,San Francisco County,CA,124-126 Ortega St,6.0,0.0,2380000,3420.0,2750.0,1967,94122,,,0.67,Golden Gate Heights,Noreleen C. de Mesa,Clarin Realty Inc.,,1967,2.5
+50,660.0,San Francisco,San Francisco County,CA,1245 Hayes St,3.085964912280702,0.0,2375000,3600.0,3438.0,1951,94117,,,0.67,Alamo Square,Adam D. Filly,Compass,,1951,2.0
+51,721.0,San Francisco,San Francisco County,CA,125 Oxford St,2.0,1.0,865000,1200.0,3001.0,1930,94134,3699,,0.67,University Mound,Daniel Hendel,Coldwell Banker Realty,"Marina,Mediterranean",1930,2.5
+52,1636.0,San Francisco,San Francisco County,CA,1250 Montgomery St,3.0,4.0,4500000,2750.0,3151.0,1995,94133,13727,4348567,0.67,Telegraph Hill,Joan J. Smith,Compass,Traditional,1995,2.5
+53,433.0,San Francisco,San Francisco County,CA,1255-1257 19th Ave,7.0,3.0,1495000,3450.0,2247.0,1905,94122,4300,1685500,0.67,Outer Sunset,Kevin Birmingham,Park North Real Estate,,1905,2.5
+54,736.0,San Francisco,San Francisco County,CA,1266 15th Ave,4.0,2.2530755711775043,1790000,2432.0,3188.0,1923,94122,,,0.67,,Cullinan Luxury,KW Advisors,Edwardian,1923,
+55,962.0,San Francisco,San Francisco County,CA,1267 Masonic Ave,3.0,2.0,1649000,1715.0,3454.0,1904,94117,6249,1764800,0.67,Haight,Jason H. Hoffman,Compass,Victorian,1904,3
+56,1760.0,San Francisco,San Francisco County,CA,1268 Lombard St #1,3.0,3.0,4488000,2550.0,4261.0,2013,94109,,,0.67,Russian Hill,Kevin Wakelin,Compass,"Contemporary,Modern/High Tech",2013,2.5
+57,751.0,San Jose,Santa Clara County,CA,1268 Sierra Mar Dr,5.0,3.0,1726888,2300.0,5841.0,1956,95118,5650,1683081,0.77,Willow Glen,Hyrum Gray,Lyon RE Downtown,,1956,2.5
+58,608.0,San Jose,Santa Clara County,CA,1276 Valdosta Rd,3.0,2.0,950000,1563.0,3515.0,1976,95121,3999,1053400,0.77,Edenvale - Seven Trees,Mark DeTar,Compass,,1976,
+59,523.0,San Jose,Santa Clara County,CA,130 E San Fernando St APT 418,2.0,2.0,849000,1622.0,8884.478927203065,1998,95112,3697,852000,0.77,Downtown,Amanda Vang,Real Estate Experts,,1998,
+60,1142.0,San Francisco,San Francisco County,CA,130 Rivoli St,3.0,2.0,2295000,2010.0,2617.0,1903,94117,,,0.67,Ashbury Heights,Christiane Gigas,Sotheby's International Realty,Traditional,1903,2.50
+61,1073.0,San Francisco,San Francisco County,CA,1321 De Haro St,4.0,5.0,3995000,3722.0,3484.0,2022,94107,9658,2866300,0.67,Potrero Hill,Ryan Johnson,Legacy Real Estate & Assoc.,Contemporary,2022,2.5
+62,792.0,San Jose,Santa Clara County,CA,1326 Milton Way,3.0,2.0,859950,1086.0,6298.0,1938,95125,3799,1303100,0.77,Willow Glen,Steve Garrido,Coldwell Banker Realty,Cottage,1938,
+63,639.0,San Francisco,San Francisco County,CA,1330 42nd Ave,5.0,4.0,1798000,2815.0,2996.0,1907,94122,4500,,0.67,Outer Sunset,Calvin M. Kam,Compass,Edwardian,1907,2.5
+64,919.2081850533808,San Francisco,San Francisco County,CA,1335 Filbert St APT 106,2.0,1.0,1198000,0.0,7832.0,0,94109,4894,1221989,0.67,Russian Hill,Kristen Stuecher,Compass,"Edwardian,Modern/High Tech,Traditional",0,2.5
+65,1035.0,San Francisco,San Francisco County,CA,1337 Natoma St APT 3,2.0,3.0,1400000,1353.0,0.0,1906,94103,4992,1226400,0.67,Mission,Carlos Rodriguez,Compass,Contemporary,1906,2.5
+66,719.0,San Francisco,San Francisco County,CA,1338-1340 17th Ave,4.0,2.0,1798000,2500.0,2996.0,1946,94122,4450,1935300,0.67,Inner Sunset,Michael Y. Klestoff,"West & Praszker, REALTORS®",,1946,2.5
+67,849.0,San Francisco,San Francisco County,CA,134 Langton St,2.0,2.0,849000,1000.0,1990.0,1906,94103,3999,852900,0.67,South of Market,Christian Buckley,Vanguard Properties,Traditional,1906,2.5
+68,1059.0,San Francisco,San Francisco County,CA,1340 Plymouth Ave,5.0,6.0,2488000,2349.0,3920.0,1917,94112,5994,2606436,0.67,Westwood Park,Leo Zhang,Re/Max Accord,Contemporary,1917,2.5
+69,951.0,San Francisco,San Francisco County,CA,1345 Visitacion Ave,2.0,1.0,1198000,1260.0,2395.0,1951,94134,3499,1247300,0.67,Visitacion Valley,Augusto B. Delacruz,Royal Pacific Mortgage,,1951,2.5
+70,235.0,San Jose,Santa Clara County,CA,135 Mountain Springs Dr UNIT 135,2.0,2.0,339000,1440.0,8884.478927203065,1976,95136,,,0.77,Fairgrounds,Michael R. Perrelli,,,1976,
+71,753.0,San Jose,Santa Clara County,CA,1353 Karl St,5.0,2.0,1288888,1711.0,5916.0,1961,95122,3835,1310558,0.77,East San Jose,Ed Ho,"Ed Ho, Broker",,1961,2.500
+72,479.0,San Jose,Santa Clara County,CA,1354 Essex Way,10.0,2.2530755711775043,1880000,3928.0,7644.0,1967,95117,3879,1905739,0.77,West San Jose,Jimmy Castellanos,Marcus & Millichap,,1967,
+73,906.0,Fremont,Alameda County,CA,136 Mill Creek Rd,5.0,4.0,3098000,3419.0,7840.0,1956,94539,8406,3074900,0.81,Mission San Jose,Joseph Sabeh Jr,Venture Sotheby's Intl Rlty,Custom,1956,2.25
+74,831.0,San Francisco,San Francisco County,CA,1360-1362 Rhode Island St,3.0,3.0,1985000,2390.0,2500.0,1910,94107,4975,2045800,0.67,Potrero Hill,Judy Meuschke,Compass,Victorian,1910,2.5
+75,750.0,San Jose,Santa Clara County,CA,1363 Marcello Dr,3.0,2.0,1159000,1546.0,8884.478927203065,2011,95131,3774,1140200,0.77,North Valley,Lily Li,Maxreal,,2011,
+76,1097.0,San Francisco,San Francisco County,CA,1370 25th Ave,5.0,4.0,2895000,2640.0,2996.0,1912,94122,9444,2960795,0.67,Outer Sunset,Anthony L. Koutsos,KW Advisors,,1912,2.5
+77,694.0,San Francisco,San Francisco County,CA,1371 21st Ave,4.0,4.0,1579000,2276.0,2996.0,1931,94122,5249,1750000,0.67,Outer Sunset,Amy Lui,Compass,Marina,1931,2.5
+78,653.0,San Jose,Santa Clara County,CA,1375 Lick Ave APT 229,2.0,2.0,749950,1148.0,8884.478927203065,2009,95110,3349,756819,0.77,Fairgrounds,Jim Myrick,KW Bay Area Estates,,2009,
+79,542.0,San Francisco,San Francisco County,CA,1378-1382 Alabama St,9.0,2.2530755711775043,1499000,2768.0,2495.0,1900,94110,4997,1649900,0.67,Mission,Cameron McIntosh,Compass,,1900,
+80,1089.0,San Francisco,San Francisco County,CA,138 28th Ave,3.0,3.0,2995000,2750.0,3881.0,1923,94121,9995,3072800,0.67,Seacliff,Mary Lou Castellanos,Sotheby's International Realty,Traditional,1923,2.5
+81,688.0,San Francisco,San Francisco County,CA,1383 Revere Ave,2.0,2.0,1133333,1648.0,2495.0,1910,94124,3999,1187700,0.67,Bayview,Monique Kenner,Coldwell Banker Kappel Gateway,,1910,2
+82,553.0,San Francisco,San Francisco County,CA,139-143 Blake St,14.0,2.2530755711775043,1598000,2890.0,3001.0,1900,94118,4900,1981600,0.67,Lone Mountain,Alex Lehr,Guide Real Estate,Edwardian,1900,
+83,604.0,San Jose,Santa Clara County,CA,1390 Saddle Rack St APT 422,3.0,2.0,850000,1407.0,8884.478927203065,2004,95126,3679,856200,0.77,Downtown,Justin Carrow,Intero Real Estate Services,,2004,
+84,891.0,San Francisco,San Francisco County,CA,14 Parsons St,6.0,2.0,2496000,2800.0,2374.0,1906,94118,,,0.67,Lone Mountain,Donald Sambucci,Sotheby's International Realty,Victorian,1906,2.5
+85,948.0,San Francisco,San Francisco County,CA,140 Caine Ave,2.0,1.0,948000,1000.0,2500.0,1931,94112,3249,,0.67,Oceanview,Robert W. Mitchell,Corcoran Global Living,Spanish,1931,2.5
+86,916.0,San Francisco,San Francisco County,CA,140 S Van Ness Ave #1143,1.0,1.0,809000,883.0,43147.0,2002,94103,3899,819589,0.67,South of Market,Paula Y. Rose,Corcoran Global Living,Modern/High Tech,2002,2.5
+87,858.0,San Francisco,San Francisco County,CA,140 S Van Ness Ave UNIT 501,3.0,2.0,1549000,1805.0,43147.0,2002,94103,,,0.67,South of Market,Carter Waite,Compass,"Contemporary,Modern/High Tech",2002,2.5%
+88,824.0,San Francisco,San Francisco County,CA,140 S Van Ness Ave UNIT 630,1.0,1.0,655000,795.0,43147.0,2002,94103,3870,662000,0.67,South of Market,Lawrence Franzella,Intero Real Estate Services,Contemporary,2002,2.5
+89,1111.0,San Jose,Santa Clara County,CA,1400 Annapolis Way,3.0,2.0,1200000,1080.0,6115.0,1963,95118,3800,1220176,0.77,Cambrian Park,Peggy Wheeler,Jardine Wheeler Re Brokerage,Traditional,1963,
+90,1009.0,Santa Clara,Santa Clara County,CA,1436 Jefferson St,3.0,2.0,1799888,1784.0,5218.0,1977,95050,4483,1591200,0.77,,Danny Gould,eXp Realty of California Inc,,1977,
+91,871.0,San Jose,Santa Clara County,CA,1442 Mardan Dr,4.0,3.0,1600000,1836.0,5898.0,1969,95132,4200,1633306,0.77,Berryessa,Mona Lee DeVlaminck,Elevate Group,Tract,1969,
+92,1328.0,San Francisco,San Francisco County,CA,1443 Lombard St,5.0,2.2530755711775043,3988888,3004.0,2657.0,1925,94123,5249,4007102,0.67,Union Street,Larry Le,"PHP Group, Inc",,1925,
+93,1023.0,San Jose,Santa Clara County,CA,1447 Cherrydale Dr,3.0,2.0,1699000,1661.0,7148.0,1957,95125,4500,1725000,0.77,Willow Glen,Patrick Farnsworth,Christie's International Real Estate Sereno,Ranch,1957,
+94,744.0,San Francisco,San Francisco County,CA,1447 Quesada Ave,0.0,1.0,799999,1075.0,2613.0,1931,94124,4400,819600,0.67,Bayview,Keenan Howard,"Keenan Howard Realty, Inc.",Other,1931,2
+95,883.0,San Francisco,San Francisco County,CA,145 Gardenside Dr APT 12,1.0,1.0,759000,860.0,38735.0,1981,94131,,,0.67,Upper Market,Jeffrey P. Banks,Compass,,1981,2.5
+96,841.0,San Francisco,San Francisco County,CA,145 Lisbon St,3.0,2.0,1199000,1425.0,2500.0,1960,94112,3998,1033900,0.67,Excelsior,Kelly Murdock,Excel Realty,Other,1960,2.5
+97,524.0,San Jose,Santa Clara County,CA,1451 Sunny Ct,4.0,3.0,1150000,2196.0,4399.0,2006,95116,4300,1150000,0.77,Downtown,Gabriel Nguyen,Coldwell Banker Realty,,2006,
+98,898.0,San Francisco,San Francisco County,CA,1455 Monterey Blvd,4.0,4.0,2895000,3225.0,6538.0,1930,94127,7500,3040411,0.67,Balboa Terrace,Andrew Herrera II,Berkshire Hathaway-Franciscan,"Mediterranean,Spanish",1930,2.75
+99,809.0,San Francisco,San Francisco County,CA,1457 Hayes St,2.0,2.0,1295000,1600.0,3423.0,1900,94117,,,0.67,Panhandle,Joan H. Peat,Coldwell Banker Realty,Victorian,1900,2.5
+101,1130.0,San Francisco,San Francisco County,CA,1462 30th Ave,3.0,2.0,1695000,1500.0,3001.0,1928,94122,,,0.67,Outer Sunset,John F. Sweeney,Compass,"Mediterranean,Spanish",1928,2.5
+102,731.0,San Francisco,San Francisco County,CA,1463-1465 Pacific Ave,6.0,3.0,1988000,2720.0,1459.0,1908,94109,,,0.67,Nob Hill,Debi Green,Sotheby's International Realty,Edwardian,1908,2.5
+103,1086.0,San Francisco,San Francisco County,CA,147 Peralta Ave,4.0,4.0,3050000,2808.0,1751.0,1910,94110,5949,3062978,0.67,Peralta Heights,Alan Canas,Coldwell Banker Realty,,1910,
+104,704.0,San Jose,Santa Clara County,CA,1475 De Rose Way APT 247,2.0,1.0,679998,966.0,8884.478927203065,1976,95126,2799,687800,0.77,Willow Glen,Karen Nelsen,Intero Real Estate Services,,1976,
+105,869.0,San Francisco,San Francisco County,CA,1483 Sutter St UNIT 402,1.0,1.0,565000,650.0,48634.0,1993,94109,3280,556000,0.67,Cathedral Hill,Mary Ann Montano,Coldwell Banker Realty,,1993,2.5
+106,886.0,San Francisco,San Francisco County,CA,1483 Sutter St UNIT 906,2.0,2.0,999000,1128.0,48634.0,1993,94109,5100,1001000,0.67,Cathedral Hill,Mary Ann Montano,Coldwell Banker Realty,,1993,2.5
+107,799.0,San Francisco,San Francisco County,CA,1487 19th Ave,3.0,1.0,979000,1225.0,2347.0,1922,94122,4200,1172200,0.67,Outer Sunset,Andrew de Vries,Berkshire Hathaway-Franciscan,Traditional,1922,2.5
+108,816.0,San Francisco,San Francisco County,CA,1506 41st Ave,3.0,2.0,1195000,1464.0,1873.0,1938,94122,4800,1359400,0.67,Outer Sunset,Aaron M Bellings,Compass,Contemporary,1938,2.5
+109,595.0,Santa Clara,Santa Clara County,CA,151 Buckingham Dr UNIT 229,2.0,2.0,750000,1260.0,8884.478927203065,1969,95051,2949,821000,0.77,,Anthony Chen,Veritas Homes,,1969,
+110,504.0,San Francisco,San Francisco County,CA,1510-1512 Castro St,3.0,2.0,1385000,2750.0,2000.0,1895,94114,6325,,0.67,Noe Valley,Meryl K. Bennan,BarbCo,Victorian,1895,2.5
+111,1250.0,San Francisco,San Francisco County,CA,1515 Noe St,4.0,3.0,2295000,1836.0,2000.0,1912,94131,6499,2430100,0.67,Noe Valley,Annie M. Williams,Sotheby's International Realty,Craftsman,1912,2.5
+112,475.0,San Francisco,San Francisco County,CA,1533 Thomas Ave,6.0,2.0,989000,2080.0,3746.0,1907,94124,,,0.67,Bayview,Karen A. Mai,Coldwell Banker Realty,,1907,2.5
+114,764.0,San Jose,Santa Clara County,CA,1537 Carmel Dr,4.0,3.0,1498000,1961.0,6202.0,1971,95125,4699,1521032,0.77,Willow Glen,Teri Fortino,Compass,,1971,
+115,900.0,San Francisco,San Francisco County,CA,154 Prentiss St,3.0,2.0,1895000,2105.0,1751.0,1909,94110,5994,2093400,0.67,Bernal Heights,Todd E. Gray,Sotheby's International Realty,Edwardian,1909,2.5
+116,919.2081850533808,San Francisco,San Francisco County,CA,1545 Eucalyptus Dr,2.0,1.0,1295000,0.0,3131.0,1950,94132,,,0.67,Lakeshore,Shameran Anderer,BarbCo,"Mid-Century,Traditional",1950,2.5
+117,1007.0,San Francisco,San Francisco County,CA,1552-1554 Chestnut St,4.0,0.0,2845000,2826.0,3438.0,1923,94123,6600,2907715,0.67,Marina District,Scott P. Brittain,Sotheby's International Realty,Marina,1923,2.5
+118,1066.0,San Francisco,San Francisco County,CA,1557 Church St,3.0,2.0,2095000,1965.0,1999.0,1919,94131,,,0.67,Noe Valley,Cece A. Doricko,Compass,Craftsman,1919,2.5
+119,1086.0,San Francisco,San Francisco County,CA,156 12th Ave #2,3.0,3.0,2350000,2164.0,3037.0,2005,94118,9499,2350020,0.67,Inner Richmond,Theresa N. Sabella,"Sabella, Theresa",,2005,2.5
+120,632.0,San Jose,Santa Clara County,CA,1583-1581 Willowbrae Ave,4.0,2.2530755711775043,1500000,2374.0,9561.0,1955,95125,,,0.77,Willow Glen,Linda Fiala-Castro,Coldwell Banker Realty,Other,1955,
+121,949.0,San Francisco,San Francisco County,CA,1587 15th St APT 501,2.0,1.0,995000,1048.0,8670.0,2007,94103,4495,1032312,0.67,Mission,Colleen M. Cotter,Vanguard Properties,Modern/High Tech,2007,2.5
+122,634.0,San Jose,Santa Clara County,CA,1597 Foley Ave,4.0,3.0,995300,1570.0,5702.0,1959,95122,3949,919500,0.77,East San Jose,Michael Guerra,Guerra Realty Co.,,1959,
+123,1207.0,San Francisco,San Francisco County,CA,1600 Webster St APT 201,2.0,2.0,1575000,1305.0,18979.0,2005,94115,,,0.67,Japantown,Grant Edward Beggs,Sotheby's International Realty,,2005,2.5
+124,863.0,San Jose,Santa Clara County,CA,1601 Fairway Green Cir,2.0,2.0,948000,1098.0,8884.478927203065,1988,95131,3200,976900,0.77,North Valley,Joyce Hung,Maxreal,,1988,
+125,618.0,San Francisco,San Francisco County,CA,1608 Lyon St,4.0,1.0,2800000,4530.0,3746.0,1900,94115,6434,2803333,0.67,Lower Pacific Heights,Robert R. Callan Jr.,Sotheby's International Realty,Victorian,1900,2.5
+126,655.0,San Francisco,San Francisco County,CA,1631 25th Ave,3.0,3.0,1650000,2520.0,2996.0,1928,94122,6999,,0.67,Outer Sunset,Romeo Aurelio,Century 21 Real Estate Allianc,Traditional,1928,2.5
+127,507.0,San Francisco,San Francisco County,CA,1635 Kirkwood Ave,4.0,3.0,949000,1871.0,2495.0,1907,94124,6195,,0.67,Bayview,Daniel Flores,Compass,Edwardian,1907,2.5
+128,249.0,San Jose,Santa Clara County,CA,165 Blossom Way #324,3.0,2.0,359000,1440.0,8884.478927203065,1998,95123,,,0.77,Blossom Valley,Adriana Gomez,,,1998,
+129,798.0,Santa Clara,Santa Clara County,CA,1651-1653 Nobili Ave,4.0,2.2530755711775043,1240000,1554.0,9413.0,1950,95051,,,0.77,,Trent Davis,Willowmar Real Estate,,1950,
+130,993.0,San Jose,Santa Clara County,CA,1652 Glenhurst Dr,4.0,2.0,1648000,1660.0,5854.0,1961,95124,4462,1586199,0.77,Cambrian Park,John Van Dyk,Intero Real Estate Services,,1961,
+131,921.0,San Francisco,San Francisco County,CA,1667 Turk St,3.0,3.0,1899000,2061.0,2038.0,1994,94115,8500,2047600,0.67,Western Addition,Bonnie K. Spindler,Corcoran Global Living,Contemporary,1994,2.25
+132,964.0,San Jose,Santa Clara County,CA,1676 Morocco Dr,3.0,2.0,1775000,1842.0,6969.0,1959,95125,4475,1805084,0.77,Willow Glen,Mary Byrne Hernandez,MBH Properties,Ranch,1959,2.5
+133,1107.0,San Francisco,San Francisco County,CA,1685 Dolores St,5.0,4.0,3649000,3295.0,2500.0,1900,94110,,,0.67,Noe Valley,Suhl Chin,Corcoran Global Living,"Contemporary,Victorian",1900,2.5
+134,1392.0,San Francisco,San Francisco County,CA,1688 Pine St UNIT W509,1.0,1.0,998000,717.0,35483.0,2016,94109,3494,998976,0.67,Pacific Heights,Mark A. Venegas,Coldwell Banker Realty,Modern/High Tech,2016,2.5
+135,795.0,San Francisco,San Francisco County,CA,172 16th Ave,3.0,2.0,1900000,2390.0,2996.0,1914,94118,8995,1841100,0.67,Lake Street,Pam Giusto,PMZ Real Estate,Edwardian,1914,2.5
+136,539.0,San Francisco,San Francisco County,CA,1727 Newcomb Ave,5.0,2.0,1175000,2178.0,2495.0,1928,94124,5600,1229400,0.67,Bayview,Steven Lawrence Williams,Compass,,1928,3
+137,646.0,Santa Clara,Santa Clara County,CA,1730 Halford Ave APT 351,2.0,2.0,680000,1052.0,0.0,1970,95051,2849,648000,0.77,,Than Phuong,Bethany R.E. & Investments,Spanish,1970,2.5
+138,802.0,San Francisco,San Francisco County,CA,175 Bluxome St UNIT 217,2.0,2.0,860000,1072.0,30938.0,1998,94107,,,0.67,South of Market,Dirk Kinley,"eXp Realty of California, Inc",,1998,2.5
+139,449.0,San Francisco,San Francisco County,CA,1750 Washington St,3.085964912280702,0.0,3750000,8361.0,4464.0,1913,94109,,,0.67,Polk Gulch,Edward J. Mullins  IV,Mullins & Co.,,1913,2.125%
+140,1085.0,San Jose,Santa Clara County,CA,1760 Castlegate Dr,3.0,2.0,1488888,1372.0,6673.0,1972,95132,3724,1518665,0.77,Berryessa,Dennise Mukhar,Christie's International Real Estate Sereno,,1972,
+141,1136.0,San Jose,Santa Clara County,CA,1763 Oakwood Ave,3.0,2.0,1250000,1100.0,6285.0,1959,95124,3962,1321200,0.77,Cambrian Park,Andy Tse,Intero Real Estate Services,,1959,
+142,1590.0,Santa Clara,Santa Clara County,CA,1765 Ravizza Ave,3.0,2.0,1650000,1038.0,5218.0,1953,95051,3499,1701521,0.77,,Karen Young,Compass,Contemporary,1953,
+143,1074.0,San Francisco,San Francisco County,CA,1771 41st Ave,4.0,2.0,1795000,1672.0,3001.0,1940,94122,5000,,0.67,Outer Sunset,Anthony Wong,Haylen,,1940,
+144,738.0,San Jose,Santa Clara County,CA,1779 Camino Leonor Dr,2.0,2.0,1050000,1422.0,8884.478927203065,2006,95131,3399,1069250,0.77,North Valley,David Llorente,BRG Realty,,2006,
+145,947.0,Fremont,Alameda County,CA,178 Emory Cmn,4.0,3.0,2248000,2375.0,3998.0,2016,94539,5627,2197691,0.81,Mission Valley,Fred Lodin,Alliance Bay Realty,,2016,
+146,1104.0,San Francisco,San Francisco County,CA,1787 McAllister St APT 2,2.0,1.0,899000,814.0,2500.0,1967,94115,,,0.67,Western Addition,Rachel E. Swann,Compass,"Mid-Century,Modern/High Tech",1967,2.5
+147,712.0,Santa Clara,Santa Clara County,CA,1789 Jeffery Ct,5.0,4.0,2100000,2951.0,9195.0,1956,95051,6358,2152500,0.77,,Vinicius Brasil,Keller Williams Realty - Cupertino,Ranch,1956,
+148,1106.0,San Jose,Santa Clara County,CA,1794 Wyrick Ave,3.0,2.0,1250000,1130.0,7135.0,1959,95124,3949,1303100,0.77,Cambrian Park,Hannah Isaka,Keller Williams Realty-Silicon Valley,,1959,
+149,1446.0,San Francisco,San Francisco County,CA,1805 Buchanan St #1A,1.0,2.0,1700000,1176.0,3163.0,2021,94115,4500,1700003,0.67,Japantown,Andres Ardila,Compass,Contemporary,2021,2.5
+150,1337.0,San Francisco,San Francisco County,CA,1805 Buchanan St #1B,1.0,2.0,1500000,1122.0,3163.0,2021,94115,4970,1475609,0.67,Japantown,Andres Ardila,Compass,Contemporary,2021,2.5
+151,754.0,San Jose,Santa Clara County,CA,1811 La Terrace Cir #1811,2.0,2.0,750000,995.0,8884.478927203065,1985,95123,,,0.77,Almaden Valley,Nicole Carmona,Real Estate Connections,,1985,
+152,806.0,San Francisco,San Francisco County,CA,1824 Jackson St,3.0,3.0,2300000,2854.0,8385.0,1917,94109,,,0.67,Pacific Heights,Paul F. Neal,Paul Neal Real Estate,Edwardian,1917,2.5
+153,853.0,San Francisco,San Francisco County,CA,1826 Keith St,3.0,1.0,939000,1101.0,1663.0,1955,94124,4699,992300,0.67,Bayview,Yao Hong Yang,Real Estate eBroker,,1955,2.5
+154,992.0,San Francisco,San Francisco County,CA,1830 Fillmore St #311,2.0,2.0,1098000,1107.0,8884.478927203065,1984,94115,4924,1100198,0.67,Japantown,Alex Sobieski,Redfin,,1984,
+155,1130.0,San Francisco,San Francisco County,CA,1840 Washington St APT 203,1.0,1.0,975000,863.0,7023.0,2012,94109,3695,975000,0.67,Pacific Heights,Emily Dunn,Compass,"Contemporary,Modern/High Tech",2012,2.5
+156,817.0,San Jose,Santa Clara County,CA,1852 Lanai Ave,3.0,2.0,850000,1040.0,5301.0,1959,95122,3499,843996,0.77,East San Jose,Alvaro Amador,Coldwell Banker Realty,,1959,
+157,1128.0,San Francisco,San Francisco County,CA,187 Ellsworth St,2.0,1.0,1195000,1059.0,1865.0,1908,94110,4500,1297100,0.67,Bernal Heights,Jessica Mussallem Rucker,Legacy Real Estate,Edwardian,1908,2.5
+158,955.0,San Francisco,San Francisco County,CA,1880 Steiner St APT 404,2.0,3.0,1499000,1569.0,17707.0,1999,94115,6249,1499000,0.67,Lower Pacific Heights,Denise L. Paulson,Compass,Contemporary,1999,2.5
+159,579.0,San Francisco,San Francisco County,CA,190 21st Ave,7.0,5.0,3498000,6045.0,2435.0,1960,94121,3294,,0.67,Lake Street,Steve Bach,Bayview Real Estate & Mortgage,Mid-Century,1960,2.5
+160,754.0,San Jose,Santa Clara County,CA,1905 La Terrace Cir,2.0,2.0,750000,995.0,8884.478927203065,1985,95123,2995,760400,0.77,Almaden Valley,Peter Myers,Coldwell Banker Realty,,1985,
+161,1051.0,San Francisco,San Francisco County,CA,1908 Leavenworth St,2.0,2.0,1189000,1131.0,2736.0,1907,94133,5400,1227200,0.67,Russian Hill,Jennifer Rosdail,KW Advisors,,1907,2.5
+162,769.0,San Jose,Santa Clara County,CA,1912 Sumatra Ave,3.0,2.0,799900,1040.0,5314.0,1959,95122,3513,806100,0.77,East San Jose,Peter Q. Nguyen,Bay Realty,,1959,
+163,909.0,San Francisco,San Francisco County,CA,1916-1918 Ellis St,9.0,6.0,2995000,3294.0,4500.0,1895,94115,,,0.67,Western Addition,Steven Mavromihalis,Compass,Victorian,1895,2.5
+164,999.0,San Francisco,San Francisco County,CA,1918 15th St #2,2.0,1.0,999000,1000.0,2243.0,1906,94114,4300,1063400,0.67,Mission Dolores,Daniel J. Risman-Jones,Ascend Real Estate,,1906,2.5
+165,664.0,San Jose,Santa Clara County,CA,1919 Dobbin Dr,3.0,2.0,929000,1400.0,8884.478927203065,2017,95133,3599,950700,0.77,North Valley,Thuy Do,Intero Real Estate Services,,2017,
+166,835.0,San Jose,Santa Clara County,CA,1929 Creek Dr,2.0,1.0,1195000,1431.0,5414.0,1950,95125,3449,1215092,0.77,Willow Glen,Liliane Molda,Lawrie & Lawrie Properties,Cottage,1950,
+167,937.0,San Francisco,San Francisco County,CA,194 Thrift St,3.0,2.0,1298000,1386.0,2247.0,1965,94112,3795,1359500,0.67,Oceanview,Michelle Kim,Mosaik Real Estate,,1965,2.5
+168,1058.0,San Francisco,San Francisco County,CA,1940 Sacramento St APT 4,3.0,2.0,1798000,1700.0,4979.0,1923,94109,6749,1768764,0.67,Pacific Heights,Mark A. Venegas,Coldwell Banker Realty,,1923,2.5
+170,855.0,San Jose,Santa Clara County,CA,1980 Bright Willow Cir,5.0,4.0,1748888,2045.0,3223.0,2005,95131,4800,1760600,0.77,North Valley,Jingya Ji,Coldwell Banker Realty,,2005,
+171,1032.0,San Francisco,San Francisco County,CA,2 Mint Plz SUITE 408,1.0,1.0,750000,727.0,7776.0,1926,94103,3494,756600,0.67,South of Market,Alan F. Morcos,Compass,Contemporary,1926,2.5
+172,1029.0,San Francisco,San Francisco County,CA,200 Brannan St APT 324,2.0,2.0,1995000,1939.0,72897.0,2004,94107,6499,1895500,0.67,South Beach,Afsaneh Valizadeh,AFI Real Estate,"Contemporary,Modern/High Tech",2004,2.5
+173,274.0,San Jose,Santa Clara County,CA,200 Ford Rd #29,3.0,2.0,369999,1348.0,8884.478927203065,1999,95138,,,0.77,Santa Teresa,Chris Truong,,,1999,
+174,260.0,San Jose,Santa Clara County,CA,200 Ford Rd #72,3.0,2.0,349900,1344.0,8884.478927203065,1983,95138,3220,284700,0.77,Santa Teresa,Todd Su,,,1983,
+175,178.0,San Jose,Santa Clara County,CA,200 Ford Rd SPACE 93,4.0,2.0,257000,1440.0,8884.478927203065,1978,95138,,,0.77,Santa Teresa,Franco Perez,,,1978,
+176,919.2081850533808,San Francisco,San Francisco County,CA,2001 McAllister St APT 213,1.0,1.0,699000,0.0,0.0,2002,94118,2995,719999,0.67,Western Addition,Alexander F. Lurie,Compass,Contemporary,2002,2.5
+177,1098.0,San Francisco,San Francisco County,CA,201 Harrison St APT 720,2.0,2.0,875000,797.0,38450.0,1991,94105,,,0.67,Rincon Hill,Daniel Kirk Slaughter,Vanguard Properties,Contemporary,1991,2.5
+178,957.0,San Francisco,San Francisco County,CA,201 Sansome St UNIT 804,2.0,3.0,1475000,1541.0,5876.0,1909,94104,,,0.67,Financial District,Mary M. Lee,McKinley Realty Inc,,1909,2.5
+179,833.0,San Jose,Santa Clara County,CA,2023 Castlebury Dr,1.0,1.0,380000,456.0,8884.478927203065,1983,95116,1895,383799,0.77,North Valley,Cristina Mendoza,Intero Real Estate Services,,1983,
+180,591.0,San Francisco,San Francisco County,CA,203 N Lake Merced Hls,3.0,3.0,1125000,1904.0,1180.0,1975,94132,,,0.67,Lakeshore,The Marks Realty Group,Compass,,1975,2.5
+181,996.0,San Francisco,San Francisco County,CA,203 Randall St,2.0,1.0,999000,1003.0,2500.0,1910,94131,,,0.67,Glen Park,John R. Solaegui,Compass,Edwardian,1910,2.5
+182,838.0,San Jose,Santa Clara County,CA,2036 Rexford Way,4.0,2.0,1499000,1788.0,5445.0,1951,95128,3795,1528890,0.77,Willow Glen,Douglas Turk,1st Class Realty Co,Cape Cod,1951,
+183,968.0,San Francisco,San Francisco County,CA,204 Hoffman Ave #1,3.0,3.0,1998000,2065.0,2100.0,1999,94114,,,0.67,Upper Market,Sherri Howe,Brava Real Estate,,1999,2.5%
+184,919.2081850533808,San Francisco,San Francisco County,CA,2040 Franklin St APT 1006,0.0,1.0,619000,0.0,14332.0,1966,94109,4998,611717,0.67,Pacific Heights,"Joe Moore, Jr.",Sotheby's International Realty,,1966,2.5
+185,919.2081850533808,San Francisco,San Francisco County,CA,2040 Franklin St APT 602,1.0,1.0,828000,0.0,14332.0,1966,94109,,,0.67,Pacific Heights,Kevin Wakelin,Compass,Contemporary,1966,2.5
+186,651.0,San Francisco,San Francisco County,CA,2059 21st Ave,3.0,1.0,1195000,1837.0,2996.0,1941,94116,3949,,0.67,Parkside,Michelle K. Pender,Engel & Voelkers San Francisco,,1941,2.5
+187,1081.0,San Francisco,San Francisco County,CA,207 Guerrero St,3.0,3.0,2000000,1850.0,2907.0,2004,94103,,,0.67,Mission Dolores,Trecia Knapp,Sotheby's International Realty,Modern/High Tech,2004,2.5
+188,1466.0,San Francisco,San Francisco County,CA,2090 Castro St,5.0,3.0,3195000,2180.0,3528.0,1978,94131,10090,3271568,0.67,Noe Valley,Lamisse Droubi,Generation Real Estate,,1978,2.5
+189,1015.0,San Jose,Santa Clara County,CA,2092 Ardis Dr,3.0,2.0,1588888,1566.0,6403.0,1950,95125,4285,1613202,0.77,Willow Glen,Brett Jennings Group,Real Estate Experts,,1950,
+190,754.0,San Jose,Santa Clara County,CA,2094 Mendota Way,3.0,2.0,929000,1232.0,5601.0,1962,95122,3650,939739,0.77,East San Jose,Paulina Phamvu,North Valley Realty Group,,1962,
+191,1403.0,San Francisco,San Francisco County,CA,2100 Green St APT 302,2.0,3.0,2595000,1850.0,0.0,1927,94123,6499,2657321,0.0,Union Street,Joan J. Smith,Compass,Contemporary,1927,2.5
+192,790.0,San Jose,Santa Clara County,CA,2102 Harmil Way,3.0,2.0,1450000,1836.0,7217.0,1953,95125,4500,1476700,0.77,Willow Glen,Liza Carneghi,Compass,,1953,
+193,647.0,Campbell,Santa Clara County,CA,2104 Surrey Pl,6.0,2.2530755711775043,1680000,2596.0,8385.0,1968,95008,,,0.77,,Scott Kao,ERS Premier,,1968,
+194,1396.0,San Francisco,San Francisco County,CA,2111 Hyde St #401,2.0,3.0,2495000,1787.0,0.0,0,94109,7250,2521685,0.0,Russian Hill,Mary Lou Castellanos,Sotheby's International Realty,Traditional,0,2.5
+195,943.0,San Francisco,San Francisco County,CA,2111 Hyde St #503,1.0,2.0,1350000,1431.0,0.0,1923,94109,,,0.0,Russian Hill,Ana T. L. Dierkhising,Compass,Traditional,1923,2.5
+196,921.0,San Jose,Santa Clara County,CA,2119 Harmil Way,4.0,4.0,2600000,2824.0,7474.0,1952,95125,6585,2580800,0.77,Willow Glen,Marcie Paul,Intero Real Estate Services,Traditional,1952,
+197,1378.0,San Francisco,San Francisco County,CA,2130 Leavenworth St APT 11,1.0,1.0,799000,580.0,5157.0,1924,94133,3499,832400,0.67,Russian Hill,Adam I. Gavzer,Compass,Mediterranean,1924,2.5
+198,717.0,Santa Clara,Santa Clara County,CA,2141 Rancho Mc Cormick Ct,2.0,2.0,899950,1256.0,1751.0,1984,95050,3428,910354,0.77,,Richard Sobin,Intero Real Estate Services,,1984,
+199,557.0,San Francisco,San Francisco County,CA,2143 14th Ave,4.0,4.0,1998000,3590.0,3188.0,1976,94116,8995,2071700,0.67,Golden Gate Heights,Debbie Wilhelm,Coldwell Banker Realty,,1976,
+200,966.0,San Francisco,San Francisco County,CA,215 Juanita Way,3.0,2.0,2050000,2123.0,3972.0,1930,94127,,,0.67,Miraloma Park,Debbie J. Herzfeld,Compass,Mediterranean,1930,2.5
+201,1013.0,Santa Clara,Santa Clara County,CA,2169 Ventura Pl,5.0,3.0,1749000,1726.0,5105.0,1955,95051,4800,1812500,0.77,,Mike Strouf,Intero Real Estate Services- Santa Clara,,1955,
+202,728.0,San Francisco,San Francisco County,CA,217 Friedell St,2.0,2.0,850000,1167.0,17869.0,2016,94124,,,0.67,Hunters Point,Rafe S. Gabel,Avenue 8 Inc.,Modern/High Tech,2016,2.5
+203,919.0,San Francisco,San Francisco County,CA,2170 Harrison St APT 7,1.0,2.0,959000,1044.0,6555.0,1997,94110,4600,989300,0.67,Mission,John P. Twomey,Compass,"Contemporary,Modern/High Tech",1997,2.5
+204,688.0,San Jose,Santa Clara County,CA,2170 S King Rd,4.0,3.0,969999,1409.0,5074.0,1960,95122,3994,964155,0.77,East San Jose,Tina Tran pham,Alliance Bay Realty,,1960,
+205,1015.0,San Francisco,San Francisco County,CA,218 Marietta Dr,3.0,2.0,1595000,1572.0,2962.0,1960,94127,5400,1925200,0.67,Miraloma Park,Jennifer Gottlieb,Compass,Mid-Century,1960,2.5
+206,1161.0,San Francisco,San Francisco County,CA,2185 Bush St APT 309,2.0,2.0,1450000,1249.0,27617.0,1984,94115,4866,1452074,0.67,Japantown,Joan H. Meyer,Corcoran Global Living,Mediterranean,1984,2.5
+207,1151.0,San Jose,Santa Clara County,CA,2194 Stratton Pl,3.0,2.0,1198000,1041.0,7405.0,1976,95131,3528,1220952,0.77,North Valley,Julie Qiao,"Bay Area Realty & Mortgage, Inc.",,1976,
+208,889.0,San Francisco,San Francisco County,CA,2206 48th Ave,3.0,2.0,1795000,2020.0,1742.0,1954,94116,4500,1686200,0.67,Outer Sunset,Ben Braksick,OPENDOOR BROKERAGE INC.,Traditional,1954,2.50
+209,987.0,San Jose,Santa Clara County,CA,2213 Canyon Cliff Ct,4.0,3.0,3488000,3535.0,17166.0,2000,95138,5999,3488014,0.77,Evergreen,Thao Dang & Brian Ng,Block Change Real Estate,"Contemporary,Modern / High Tech",2000,
+210,868.0,San Francisco,San Francisco County,CA,2231 24th Ave,3.0,2.0,1598000,1840.0,2996.0,1941,94116,4299,,0.67,Parkside,James B. Hurley,Vanguard Properties,,1941,2.5
+211,983.0,San Francisco,San Francisco County,CA,2235 Lake St,4.0,2.0,1825000,1856.0,5000.0,1913,94121,,,0.67,Lake Street,Houston  Garcia,Sotheby's International Realty,Edwardian,1913,2.5
+212,1317.0,San Francisco,San Francisco County,CA,2238 Market St #204,2.0,2.0,1595000,1211.0,0.0,0,94114,,,0.67,Duboce Triangle,Garrett R. Frakes,Polaris Pacific,Mediterranean,0,2.5
+213,1192.0,San Francisco,San Francisco County,CA,2238 Market St #210,0.0,1.0,745000,625.0,1.0,0,94114,,,0.67,Duboce Triangle,Garrett R. Frakes,Polaris Pacific,Contemporary,0,2.5
+214,1665.0,San Francisco,San Francisco County,CA,2238 Market St #504,2.0,2.0,1998000,1200.0,0.0,0,94114,,,0.67,Duboce Triangle,Garrett R. Frakes,Polaris Pacific,Contemporary,0,2.5
+215,518.0,San Jose,Santa Clara County,CA,2241 Lindaire Ave,5.0,2.2530755711775043,1248000,2408.0,10301.0,1952,95128,3037,1280266,0.77,Fruitdale,Samuel Spinella II,Spoke Real Estate,,1952,
+216,897.0,San Jose,Santa Clara County,CA,2248 Zoria Cir,4.0,2.0,1250000,1393.0,6716.0,1972,95131,3976,1278700,0.77,North Valley,Alvaro Nevarez,EQ1,,1972,
+217,768.0,Santa Clara,Santa Clara County,CA,2250 Monroe St APT 184,1.0,1.0,549888,716.0,8884.478927203065,1987,95050,2399,551724,0.77,,Jason Belcher,"Golden Realty & Investments, Inc","Contemporary,Mediterranean,Spanish",1987,
+218,823.0,San Jose,Santa Clara County,CA,2252 Boxwood Dr,2.0,2.0,1274950,1550.0,5998.0,1948,95128,3695,1275700,0.77,Rose Garden,Christina Andrade,"Christina Andrade, Broker",Unknown,1948,
+219,1279.0,Campbell,Santa Clara County,CA,2265 Maximilian Dr,4.0,2.0,1900000,1486.0,6098.0,1962,95008,,,0.77,San Tomas Aquinos,Ben Braksick,OPENDOOR BROKERAGE INC.,Ranch,1962,2.50
+220,1000.0,San Francisco,San Francisco County,CA,228 Lexington St,2.0,1.0,1250000,1250.0,1751.0,1906,94110,4550,1284246,0.67,Mission,Joan H. Meyer,Corcoran Global Living,Victorian,1906,2.75
+221,1508.0,San Francisco,San Francisco County,CA,2295 Vallejo St APT 402,1.0,1.0,995000,660.0,15137.0,1975,94123,3899,996400,0.67,Pacific Heights,Judy H. Karam,Sotheby's International Realty,Contemporary,1975,2.5
+222,841.0,San Francisco,San Francisco County,CA,234 Madrid St,3.0,2.0,1199000,1425.0,2495.0,1960,94112,3998,1269800,0.67,Excelsior,Kenneth A. Hagan,Pinnacle Properties,Mid-Century,1960,2.5
+223,838.0,San Francisco,San Francisco County,CA,2341 Franklin St APT 4,1.0,1.0,1095000,1306.0,3285.0,1927,94123,3999,1099200,0.67,Pacific Heights,Silvia E. Damen,"eXp Realty of California, Inc",,1927,2.5
+224,904.0,San Jose,Santa Clara County,CA,2355 Sunrise Dr,4.0,4.0,1799000,1989.0,6011.0,1959,95124,5249,1826530,0.77,Cambrian Park,Amanda Bakshi,The Turtlestone Group,,1959,
+225,934.0,San Francisco,San Francisco County,CA,2363 35th Ave,3.0,2.0,1295000,1387.0,3001.0,1947,94116,,,0.67,Parkside,Cynthia D. Cummins,Kindred SF Homes,Mid-Century,1947,2.5
+226,1019.0,San Jose,Santa Clara County,CA,2367 Mazzaglia Ave,4.0,3.0,2399000,2355.0,8842.0,1955,95125,6499,2383221,0.77,Willow Glen,Paul Bertoldo,Compass,Ranch,1955,
+227,1459.0,San Francisco,San Francisco County,CA,2377 Greenwich St,1.0,1.0,1598000,1095.0,1855.0,1900,94123,3695,1641900,0.67,Cow Hollow,Moe Arshad,"Real Estate Source, Inc.",,1900,
+228,1249.0,San Jose,Santa Clara County,CA,2377 Maywood Ave,2.0,1.0,1199000,960.0,7740.0,1947,95128,3249,1221000,0.77,Fruitdale,Denise Carr,Compass,,1947,
+229,635.0,San Jose,Santa Clara County,CA,240 Giddings Ct,5.0,3.0,1699000,2677.0,6599.0,1977,95139,4835,1733439,0.77,Santa Teresa,Eugene Velez,Century 21 Real Estate Alliance,,1977,
+230,985.0,San Francisco,San Francisco County,CA,2415 Van Ness Ave APT 205,1.0,1.0,549500,558.0,5520.0,1926,94109,2999,589100,0.67,Union Street,Jimmy Bastos,NOVO,Edwardian,1926,2.5
+231,1128.0,San Francisco,San Francisco County,CA,242 Anderson St,3.0,3.0,1998000,1772.0,1751.0,1987,94110,5869,2059220,0.67,Bernal Heights,Peter Goss,Corcoran Global Living,,1987,2.5
+232,963.0,San Jose,Santa Clara County,CA,244 N Cragmont Ave,3.0,1.0,998000,1036.0,5201.0,1950,95127,3410,1014779,0.77,,David Lillo,DPL Real Estate,,1950,
+233,1173.0,San Francisco,San Francisco County,CA,2443 23rd Ave,4.0,4.0,2349000,2003.0,2996.0,1924,94116,5994,2450200,0.67,Parkside,Michael Hsu,Madison Hunter,"Contemporary,Modern/High Tech",1924,2.5
+234,245.0,San Jose,Santa Clara County,CA,245 Chateau La Salle Dr UNIT 245,3.0,2.0,376900,1536.0,8884.478927203065,1979,95111,,,0.77,Fairgrounds,"Ping ""jennifer"" Zhong",,,1979,
+235,1303.0,San Francisco,San Francisco County,CA,2459 Buchanan St,3.0,2.0,2475000,1900.0,2040.0,1900,94115,7794,2574198,0.67,Pacific Heights,Callum C. Hutchins,Sotheby's International Realty,,1900,2.5
+236,1361.0,San Francisco,San Francisco County,CA,246 2nd St APT 1501,2.0,2.0,1795000,1319.0,12933.0,2000,94105,4995,1795000,0.67,South of Market,Christian Buckley,Vanguard Properties,Contemporary,2000,2.5
+237,892.0,San Francisco,San Francisco County,CA,247-249 Edna St,4.0,4.0,2599000,2913.0,2500.0,1931,94112,3999,1618800,0.67,Sunnyside,Lori A. Muscat,Transpac Real Estate Company,,1931,2.5
+238,919.2081850533808,San Francisco,San Francisco County,CA,2483 Filbert St,1.0,1.0,679000,0.0,3250.0,1908,94123,2894,,0.67,Cow Hollow,Tim A. Brown,KW Advisors,,1908,2.5
+239,1049.0,San Francisco,San Francisco County,CA,25-27 Morrell St,4.0,2.0,1980000,1888.0,1337.0,1923,94109,5499,1984962,0.67,Nob Hill,Paul Warrin,Golden Gate Sotheby's Intl,Edwardian,1923,2.5%
+240,1117.0,San Francisco,San Francisco County,CA,25 Morrell St,2.0,1.0,1095000,980.0,1337.0,1923,94109,4194,1985000,0.67,Nob Hill,Paul Warrin,Golden Gate Sotheby's Intl,Edwardian,1923,2.5
+241,945.0,San Francisco,San Francisco County,CA,250 Grand View Ave,3.0,0.0,1795000,1900.0,2186.0,1903,94114,3099,1928100,0.67,Upper Market,Harry Clark,Corcoran Global Living,Vintage,1903,2.5
+243,1117.0,San Francisco,San Francisco County,CA,252 9th St #403,2.0,1.0,799000,715.0,5000.0,2015,94103,3800,752500,0.67,South of Market,Matthew W. Finley,Compass,,2015,2.5
+244,1351.0,San Francisco,San Francisco County,CA,253 Randall St #1,2.0,1.0,1089000,806.0,2500.0,1909,94131,3850,1145800,0.67,Glen Park,Jessica Branson,Compass,,1909,2.5
+245,1407.0,Santa Clara,Santa Clara County,CA,2538 Crystal Dr,3.0,3.0,1988800,1414.0,5998.0,1954,95051,4500,2076900,0.77,,Peter Trinh,Century 21 Real Estate Alliance,,1954,
+246,989.0,San Francisco,San Francisco County,CA,255 Topaz Way,4.0,4.0,2595000,2625.0,2112.0,1972,94131,7950,2680281,0.67,Diamond Heights,Alexander Hachiya,Sotheby's International Realty,,1972,2.5
+247,642.0,San Jose,Santa Clara County,CA,255 Vista Roma Way,3.0,3.0,1074000,1674.0,8884.478927203065,2004,95136,3800,1096259,0.77,Fairgrounds,Ron Mason,Coldwell Banker Realty,,2004,
+248,932.0,San Francisco,San Francisco County,CA,2551 28th Ave,3.0,2.0,1295000,1390.0,3001.0,1906,94116,4749,,0.67,Parkside,Melanie P. Leung,Sequoia Real Estate,,1906,2.5
+249,699.0,San Francisco,San Francisco County,CA,257 Miramar Ave,15.0,0.0,1398000,2000.0,2813.0,1906,94112,,,0.67,Ingleside,Kelly Nguyen,Century 21 Real Estate Allianc,,1906,2.5%
+250,588.0,San Jose,Santa Clara County,CA,2585 Sierra Vista Ct,4.0,3.0,899900,1531.0,6015.0,1978,95116,3850,917400,0.77,Alum Rock-East Foothills,Peter Q. Nguyen,Bay Realty,,1978,
+251,950.0,San Francisco,San Francisco County,CA,260 King St UNIT 437,1.0,1.0,779000,820.0,213230.0,2004,94107,3927,731200,0.67,Mission Bay,Connie Chung,Willowmar Real Estate,Contemporary,2004,2.5
+252,1299.0,San Francisco,San Francisco County,CA,263 29th Ave,4.0,4.0,4500000,3465.0,2996.0,1919,94121,,,0.67,Seacliff,Janet F. Schindler,Sotheby's International Realty,See Remarks,1919,2.5
+253,598.0,San Jose,Santa Clara County,CA,2642 Heritage Park Cir,2.0,3.0,998000,1670.0,2613.0,1988,95132,3399,1087600,0.77,Berryessa,Ashley Shi,E3 Realty & Loans,,1988,
+254,1302.0,San Francisco,San Francisco County,CA,2655 Bush St APT 108,1.0,1.0,859000,660.0,8884.478927203065,2017,94115,3494,859000,0.67,Lower Pacific Heights,Leon Le,Pacificwide Real Estate & Mortgage,Modern / High Tech,2017,
+255,1012.0,Santa Clara,Santa Clara County,CA,2661 Benton St,4.0,2.0,1750000,1729.0,6276.0,1955,95051,4650,1753800,0.77,,Rose Lee,Happy Real Estate Inc,,1955,
+256,845.0,San Francisco,San Francisco County,CA,267 Mangels Ave,4.0,2.0,1995000,2360.0,2500.0,1969,94131,5728,2054700,0.67,Sunnyside,Baxter Smith,Compass,Mid-Century,1969,2.5
+257,1228.0,San Francisco,San Francisco County,CA,2676 Union St,0.0,1.0,850000,692.0,5655.0,1909,94123,,,0.67,Cow Hollow,Tania Toubba,Sotheby's International Realty,,1909,2.5
+258,1591.0,San Francisco,San Francisco County,CA,268 Avila St,4.0,3.0,4200000,2640.0,2500.0,1926,94123,12090,3583000,0.67,Marina District,Joy Rong,Intero Real Estate Services,,1926,
+259,815.0,San Jose,Santa Clara County,CA,2686 Taffy Dr,4.0,2.0,1199999,1472.0,6006.0,1966,95148,3549,1213821,0.77,Evergreen,Vicky Tran,Century 21 Real Estate Alliance,,1966,
+260,873.0,San Francisco,San Francisco County,CA,2690 35th Ave,2.0,2.0,1395000,1598.0,3341.0,0,94116,,,0.67,Parkside,Samantha Huang,Corcoran Global Living,,0,2.5
+261,912.0,San Francisco,San Francisco County,CA,2701 Van Ness Ave APT 210,1.0,1.0,895000,981.0,11915.0,1929,94109,3990,909999,0.67,Union Street,Howard Reinstein,Vanguard Properties,"Art Deco,Mediterranean",1929,2.5
+262,1189.0,San Jose,Santa Clara County,CA,2725 Richland Ave,4.0,3.0,2600000,2187.0,11456.0,1958,95125,4800,2180500,0.77,Willow Glen,Brian Kiernan,Coldwell Banker Realty,"Custom,Ranch",1958,
+263,541.0,San Francisco,San Francisco County,CA,2726 Anza St,5.0,2.2530755711775043,1555000,2872.0,2500.0,1923,94121,,,0.67,Inner Richmond,Steve Belluomini,Corcoran Global Living,,1923,
+264,557.0,San Jose,Santa Clara County,CA,2738 Goble Ln #4,3.0,4.0,1088000,1953.0,435.0,2016,95111,4250,1089210,0.77,Fairgrounds,Yu-En Tsai,Valley Vine Realty,,2016,
+265,616.0,San Jose,Santa Clara County,CA,275 Tradewinds Dr APT 11,1.0,1.0,445000,722.0,8884.478927203065,1970,95123,2225,435531,0.77,Blossom Valley,Elva Acevedo,RE/MAX Santa Clara Valley,,1970,
+266,649.0,San Jose,Santa Clara County,CA,275 Tradewinds Dr APT 14,1.0,1.0,468888,722.0,2809.0,1970,95123,2225,441400,0.77,Blossom Valley,Mahsa Manavi,Coldwell Banker Realty,,1970,
+267,1089.0,San Francisco,San Francisco County,CA,277 Douglass St,3.0,2.0,1999000,1835.0,1990.0,1910,94114,7500,2134100,0.67,Eureka Valley,Lance Fulford,Compass,Edwardian,1910,2.5
+268,1457.0,Santa Clara,Santa Clara County,CA,2791 Pruneridge Ave,3.0,2.0,2549000,1749.0,12327.0,1960,95051,4350,2669684,0.77,,Vicky Tran,Century 21 Real Estate Alliance,,1960,
+270,731.0,San Francisco,San Francisco County,CA,28 Rebecca Ln,2.0,2.0,1185000,1622.0,1359.0,1992,94124,5424,1185000,0.67,Bayview,Daniel A. Fernandez,Compass,Modern/High Tech,1992,2.5
+271,1412.0,San Francisco,San Francisco County,CA,280 Spear St #28H,1.0,1.0,949999,673.0,8884.478927203065,2020,94105,4190,930000,0.67,Financial District,Randy Garcia,Fifty Hills Real Estate,,2020,
+272,954.0,San Francisco,San Francisco County,CA,2830 Bryant St,2.0,2.0,1295000,1357.0,2500.0,1926,94110,5100,,0.67,Mission,Tanya S. Dzhibrailova,"NHB Real Estate, Inc.",Edwardian,1926,"2,5"
+273,1058.0,San Francisco,San Francisco County,CA,2832 Bryant St,1.0,1.0,529000,500.0,2500.0,0,94110,,,0.67,,Tanya S. Dzhibrailova,"NHB Real Estate, Inc.",Edwardian,0,"2,5"
+274,980.0,San Jose,Santa Clara County,CA,2853 Bellini Ct,3.0,2.0,999998,1020.0,6098.0,1970,95132,3499,1023357,0.77,Berryessa,Siraj Shabber,Re/Max Gold,None,1970,2.5
+275,848.0,San Francisco,San Francisco County,CA,290 Nevada St,3.0,2.0,1695000,2000.0,1751.0,1908,94110,,,0.67,Bernal Heights,Cynthia D. Cummins,Kindred SF Homes,Victorian,1908,2.5
+277,913.0,Santa Clara,Santa Clara County,CA,2901 Jerald Ave,3.0,3.0,1399950,1534.0,5501.0,1956,95051,3999,1450400,0.77,,Al Moridi,Intero Real Estate Services,,1956,
+278,1109.0,Santa Clara,Santa Clara County,CA,2908 Barkley Ave,3.0,2.0,1888000,1702.0,5985.0,1958,95051,3994,1532200,0.77,,Ven Sudula,Calhomes,,1958,
+279,798.0,San Jose,Santa Clara County,CA,2908 Fallwood Ln,3.0,2.0,930000,1165.0,5980.0,1964,95132,3699,947668,0.77,Berryessa,Mario Ramirez,KW Bay Area Estates,,1964,
+280,919.2081850533808,San Francisco,San Francisco County,CA,292 Arleta Ave,3.085964912280702,0.0,499000,0.0,2500.0,0,94134,,,0.67,Visitacion Valley,Kenneth R. Go,KW Advisors,,0,2.5
+281,1286.0,San Jose,Santa Clara County,CA,2929 Quinto Way,3.0,2.0,1698000,1320.0,5270.0,1954,95124,3899,1303700,0.77,Willow Glen,Julie Wyss,Compass,,1954,
+282,1134.0,Santa Clara,Santa Clara County,CA,2964 Lamory Pl #323,2.0,3.0,1438000,1268.0,8884.478927203065,2022,95051,,,0.77,,Judy Wang,SummerHill Brokerage Inc,,2022,
+283,995.0,Santa Clara,Santa Clara County,CA,2978 Lamory Pl #318,4.0,4.0,2198000,2209.0,8884.478927203065,2022,95051,5499,2285175,0.77,,Judy Wang,SummerHill Brokerage Inc,,2022,
+284,843.0,San Jose,Santa Clara County,CA,2984 Jayhawkers Pl UNIT 2,2.0,2.0,699000,829.0,392.0,2020,95136,2749,699005,0.77,Fairgrounds,Melinda Bettencourt,Keller Williams Realty-Silicon Valley,Modern / High Tech,2020,
+285,1324.0,San Francisco,San Francisco County,CA,300 Ivy St APT 303,1.0,1.0,899000,679.0,22794.0,2014,94102,3300,899000,0.67,Hayes Valley,Todd D. Montgomery,Compass,Contemporary,2014,2.5
+286,528.0,San Jose,Santa Clara County,CA,300 Rennie Ave,4.0,3.0,1499000,2838.0,9526.0,1949,95127,5499,1526254,0.77,,Mark DeTar,Compass,,1949,
+287,658.0,San Francisco,San Francisco County,CA,301 Crescent Ct APT 3101,1.0,1.0,529000,804.0,114388.0,2007,94134,2499,529000,0.67,Candlestick Point SRA,Robert  Belli,Compass,,2007,2.5
+288,1311.0,San Francisco,San Francisco County,CA,301 Main St UNIT 21A,2.0,2.0,1525000,1163.0,76208.0,2008,94105,5000,1516285,0.67,Rincon Hill,Paul Hwang,Skybox Realty,Contemporary,2008,2.5
+289,827.0,San Francisco,San Francisco County,CA,301 Mission St APT 406,1.0,2.0,1350000,1633.0,0.0,2009,94105,7799,1823000,0.67,South of Market,John M. Kirkpatrick,Compass,Modern/High Tech,2009,2.5
+290,1373.0,San Francisco,San Francisco County,CA,301 Mission St APT 47F,3.0,2.0,2198888,1601.0,0.0,2009,94105,7799,2198900,0.67,South of Market,Malin P. Kansal,Vanguard Properties,Modern/High Tech,2009,2.5000
+291,946.0,San Francisco,San Francisco County,CA,301 Mission St APT 9C,3.0,3.0,1498000,1583.0,8884.478927203065,2009,94105,7058,1470300,0.67,South of Market,SALA Homes Group,SALA Homes Realty & Development,,2009,
+292,629.0,San Jose,Santa Clara County,CA,302 Cedargate Ln,2.0,2.0,725000,1152.0,1045.0,1971,95136,2991,741100,0.77,Blossom Valley,Jenavi Garcia,"Wu, Fuzhou, Broker",,1971,
+293,834.0,San Jose,Santa Clara County,CA,3021 Water St,3.0,1.0,998000,1196.0,8372.0,1952,95111,3499,1006080,0.77,Fairgrounds,Joe Rodriguez,Compass,Contemporary,1952,
+294,724.0,San Jose,Santa Clara County,CA,305 Ingram Ct,5.0,3.0,1699888,2347.0,6168.0,1977,95139,4519,1734640,0.77,Santa Teresa,Bonafede Team,Compass,,1977,
+295,1027.0,San Francisco,San Francisco County,CA,3057 Market St,3.0,3.0,1695000,1650.0,1912.0,1958,94114,,,0.67,Eureka Valley,Jonathan B. Deason,Vanguard Properties,Contemporary,1958,2.5
+296,1256.0,San Francisco,San Francisco County,CA,3059 Market St,2.0,2.0,1495000,1190.0,1912.0,1958,94114,,,0.67,Eureka Valley,Jonathan B. Deason,Vanguard Properties,Contemporary,1958,2.5
+297,1193.0,San Francisco,San Francisco County,CA,307 Page St APT 6,1.0,1.0,698000,585.0,2209.0,1910,94102,3574,699000,0.67,Lower Haight,Alan F. Morcos,Compass,Edwardian,1910,2.5
+298,1087.0,San Francisco,San Francisco County,CA,3086 Market St,4.0,1.0,1595000,1467.0,1877.0,1901,94114,5200,1707400,0.67,Eureka Valley,Steve Gallagher,Coldwell Banker Realty,Victorian,1901,2.5
+299,919.2081850533808,San Francisco,San Francisco County,CA,31-33 Loyola Ter,4.0,2.0,2195000,0.0,3842.0,1922,94117,5049,2366900,0.67,Lone Mountain,Jason H. Hoffman,Compass,Craftsman,1922,3
+300,701.0,San Jose,Santa Clara County,CA,311 Oleander Dr,2.0,3.0,849000,1211.0,8884.478927203065,1998,95123,2999,869834,0.77,Blossom Valley,Mark Burstein,KW Santa Clara Valley Inc,,1998,
+301,894.0,Fremont,Alameda County,CA,311 Sandstone Dr,4.0,3.0,1600000,1789.0,4390.0,1989,94536,4099,1432800,0.81,Niles,Amy Harris,RE/MAX Grupe Gold,,1989,2.0
+302,971.0,Fremont,Alameda County,CA,3125 Saxon Ct,5.0,3.0,1695000,1746.0,6098.0,1971,94555,3999,1694000,0.81,Northgate,T Mirch Mirchandani,BHG Reliance Partners,Ranch,1971,2.5
+303,742.0,San Jose,Santa Clara County,CA,313 Burning Tree Dr,4.0,2.0,1298000,1750.0,6089.0,1970,95119,4150,1326270,0.77,Santa Teresa,Samera H. King,Century 21-Hallmark,,1970,
+304,1598.0,San Francisco,San Francisco County,CA,3131 Pierce St #403,2.0,3.0,2195000,1374.0,0.0,0,94123,6350,2222784,0.67,Cow Hollow,Edward R. Deleski,Vanguard Properties,,0,2.5
+305,846.0,San Francisco,San Francisco County,CA,3136 Fulton St #2,4.0,3.0,1549000,1832.0,2906.0,2001,94118,5949,1637700,0.67,Inner Richmond,Marcus A. Lee,Compass,,2001,2.5
+306,665.0,San Jose,Santa Clara County,CA,3137 Rasmus Cir,4.0,3.0,1799888,2706.0,9753.0,1978,95148,5499,1722115,0.77,Evergreen,Bonafede Team,Compass,,1978,
+308,878.0,San Jose,Santa Clara County,CA,3151 Hawkcrest Cir,4.0,3.0,2650000,3019.0,12296.0,1997,95135,5994,2556710,0.77,Evergreen,Julie Wyss,Compass,,1997,
+309,1007.0,San Jose,Santa Clara County,CA,3167 Todd Way,5.0,3.0,1950000,1937.0,7026.0,1956,95124,4928,1765400,0.77,Willow Glen,Blanca Medellin,eXp Realty of California Inc,,1956,
+310,475.0,San Jose,Santa Clara County,CA,3175 Locke Dr,8.0,2.2530755711775043,1599000,3369.0,9962.0,1971,95111,2667,1600700,0.77,Edenvale - Seven Trees,Stephanie Gibri,KW Santa Clara Valley Inc,,1971,
+311,767.0,San Jose,Santa Clara County,CA,3175 Sylvan Dr,4.0,2.0,1199000,1564.0,6019.0,1965,95148,4200,1219159,0.77,East San Jose,Carly Adams,Keller Williams-Santa Cruz,,1965,
+312,908.0,San Jose,Santa Clara County,CA,3177 Gawain Dr,3.0,2.0,989000,1089.0,5009.0,1964,95127,3394,1003900,0.77,Alum Rock-East Foothills,Rigo Bracamontes,Intero  R E Services,Ranch,1964,
+313,355.0,San Francisco,San Francisco County,CA,32-38 Wentworth Pl,3.085964912280702,0.0,1980000,5580.0,2874.0,1907,94108,,,0.67,Chinatown,Ning H. Ho,Marcus & Millichap,,1907,2.5%
+314,1068.0,San Francisco,San Francisco County,CA,32 Yukon St,2.0,1.0,1195000,1119.0,2016.0,1949,94114,,,0.67,Eureka Valley,Sherri Howe,Brava Real Estate,,1949,2.5%
+315,942.0,San Jose,Santa Clara County,CA,3208 Mallard Ridge Ct #303,3.0,2.0,1358806,1443.0,0.0,2022,95120,,,0.77,West San Jose,Suzie Gibbons,Pulte Group,Other,2022,2.5
+316,1205.0,San Francisco,San Francisco County,CA,321 Parnassus Ave,2.0,1.0,1350000,1120.0,0.0,1908,94117,4600,1427335,0.67,Parnassus Heights,Eric T. Rahe,Vanguard Properties,"Contemporary,Edwardian",1908,2.50
+317,743.0,San Jose,Santa Clara County,CA,3214 Almansa Ct,4.0,3.0,1680000,2261.0,6629.0,1976,95127,4300,1398000,0.77,Alum Rock-East Foothills,Ella Sun,Compass,,1976,
+318,510.0,San Francisco,San Francisco County,CA,3232-3234 Folsom St,4.0,5.0,1495000,2930.0,1999.0,1913,94110,,,0.67,Bernal Heights,Scott E. Morton,Vanguard Properties,,1913,3
+319,1072.0,San Jose,Santa Clara County,CA,3274 San Rivas Dr,3.0,2.0,1350000,1259.0,7413.0,1973,95148,3399,1361055,0.77,Evergreen,Douglas Goss,KW Bay Area Estates,Ranch,1973,
+320,573.0,San Jose,Santa Clara County,CA,329 Wooster Ave,4.0,3.0,1390888,2426.0,5227.0,2016,95116,4600,1402700,0.77,Downtown,Moe Yousofi,Redfin,Contemporary,2016,2.5
+321,941.0,San Francisco,San Francisco County,CA,33 Midway St APT 202,2.0,2.0,949000,1008.0,6525.0,1980,94133,4128,949900,0.67,Fisherman's Wharf,Carlos D. Cabarcos,Vanguard Properties,Contemporary,1980,2.5
+322,197.0,San Jose,Santa Clara County,CA,3300 Narvaez Ave #21,2.0,2.0,225000,1140.0,8884.478927203065,1975,95136,,,0.77,Fairgrounds,Andrew Suk Kim,,,1975,
+323,869.0,San Francisco,San Francisco County,CA,3301-3311 Cesar Chavez St #3311A,2.0,2.0,895000,1030.0,6300.0,1905,94110,,,0.67,Bernal Heights,Scott Whelan,Compass,,1905,2.5
+324,806.0,Santa Clara,Santa Clara County,CA,3301 Benton St,3.0,2.0,1250000,1550.0,4129.0,1963,95051,3949,1251724,0.77,,Arezou Shadabadi,Compass,Mid-Century,1963,2.5
+325,746.0,San Jose,Santa Clara County,CA,3312 Methilhaven Ln,3.0,1.0,738800,991.0,8884.478927203065,1976,95121,3200,748100,0.77,Evergreen,Sylvia Pedigo,Fireside Realty,,1976,
+326,1247.0,San Francisco,San Francisco County,CA,333 1st St UNIT N1201,2.0,2.0,1195000,958.0,38572.0,2004,94105,4563,1167659,0.67,Rincon Hill,Beatrice Tao,Beatrice Tao,"Contemporary,Modern/High Tech",2004,2.5
+327,1013.0,San Francisco,San Francisco County,CA,3345-3347 Divisadero St,7.0,6.0,4900000,4835.0,2344.0,1931,94123,10099,5075729,0.67,Marina District,Jason H. Hoffman,Compass,Marina,1931,3%
+328,999.0,San Francisco,San Francisco County,CA,3345 Divisadero St,2.0,2.0,1760000,1761.0,2344.0,1931,94123,,,0.67,Marina District,Jason H. Hoffman,Compass,Marina,1931,3%
+329,1024.0,San Francisco,San Francisco County,CA,3347 Divisadero St,5.0,4.0,3140000,3065.0,2344.0,1931,94123,14000,3223733,0.67,Marina District,Jason H. Hoffman,Compass,Marina,1931,3
+330,346.0,San Francisco,San Francisco County,CA,3351 Cesar Chavez,3.085964912280702,0.0,1400000,4050.0,2875.0,1961,94110,2995,,0.67,Bernal Heights,Daniel K. McGue,Coldwell Banker Commercial Rea,,1961,2.5
+331,1434.0,Santa Clara,Santa Clara County,CA,3355 McKinley Dr,3.0,2.0,1999888,1395.0,7034.0,1955,95051,4300,2067500,0.77,,Coco Tan,Keller Williams Realty-Silicon Valley,,1955,
+332,369.0,San Francisco,San Francisco County,CA,3356-3360 16th St,3.085964912280702,0.0,2200000,5961.0,2317.0,1905,94114,,,0.67,Mission Dolores,Nicholas E. Bonn,Marcus & Millichap,Edwardian,1905,2.5
+333,676.0,San Jose,Santa Clara County,CA,3386 Skyward Pl,3.0,3.0,975000,1443.0,8884.478927203065,1997,95136,3795,994933,0.77,Fairgrounds,Tari Wortham,Coldwell Banker Realty,,1997,
+334,580.0,San Francisco,San Francisco County,CA,339 Waller St,8.0,4.0,2998000,5170.0,2000.0,1900,94117,5100,1418500,0.67,Duboce Triangle,Steve Bach,Bayview Real Estate & Mortgage,Edwardian,1900,2.5
+335,619.0,San Jose,Santa Clara County,CA,3405 Lake Garda Dr,2.0,3.0,1100000,1776.0,8884.478927203065,1985,95135,3584,1116800,0.77,Evergreen,Suzanne Ramirez Rodda,Keller Williams San Jose Gateway,,1985,
+336,1180.0,San Francisco,San Francisco County,CA,342 Hayes St APT H,1.0,2.0,949000,804.0,6000.0,1996,94102,4400,944249,0.67,Civic Center,Ryan Richard,Compass,,1996,3
+337,679.0,San Jose,Santa Clara County,CA,3421 Mount Prieta Dr,4.0,3.0,1140000,1679.0,5532.0,1964,95127,4500,1154476,0.77,East San Jose,Patty Cerrillo,Capital Estates Realty,,1964,
+338,993.0,Fremont,Alameda County,CA,34249 Xanadu Ter,4.0,3.0,1799950,1812.0,3376.0,1989,94555,4011,1759668,0.81,Ardenwood,Mei Mei,Cal MBA Realty,Contemporary,1989,2.5
+339,923.0,San Jose,Santa Clara County,CA,3459 Lisbon Dr,4.0,3.0,1648000,1786.0,6006.0,1972,95132,4233,1807300,0.77,Berryessa,Debbie I. Giordano,Master Brokers,,1972,
+340,1124.0,Santa Clara,Santa Clara County,CA,3491 Shafer Dr,3.0,2.0,1689999,1504.0,5248.0,1954,95051,4250,1625650,0.77,,New Door,Compass,,1954,
+341,919.2081850533808,San Francisco,San Francisco County,CA,350 Day St,2.0,1.0,1995000,0.0,2848.0,1900,94131,4250,,0.67,Noe Valley,Alana Shi,"Andersen, Jung & Co.",,1900,2.5
+342,923.0,Fremont,Alameda County,CA,3505 Sutton Loop,3.0,2.0,1549900,1680.0,7405.0,1964,94536,3949,1574500,0.81,Centerville,Lester Belliveau,Coldwell Banker Realty,Ranch,1964,2.75
+343,1135.0,San Francisco,San Francisco County,CA,3521 Webster St,3.0,2.0,2349000,2070.0,2495.0,1932,94123,6999,2442500,0.67,Marina District,Andrew de Vries,Berkshire Hathaway-Franciscan,Tudor,1932,2.5
+344,883.0,Fremont,Alameda County,CA,35364 Fremont Blvd,2.0,1.0,1000000,1133.0,9147.0,1934,94536,2949,1005000,0.81,Brookvale,Janice Byal,Readi-Home,Vintage,1934,2.5
+345,783.0,Santa Clara,Santa Clara County,CA,3559 Warburton Ave,5.0,4.0,2000000,2554.0,2069.0,2018,95051,5999,2102102,0.77,,Jenny Wan-Mernyk,eXp Realty of California Inc,,2018,
+346,979.0,San Francisco,San Francisco County,CA,356 Funston Ave,2.0,2.0,1395000,1425.0,2988.0,1920,94118,4200,1465200,0.67,Inner Richmond,Nina Hatvany,Compass,Apartment,1920,2.5
+347,846.0,San Jose,Santa Clara County,CA,3582 Eastridge Dr,3.0,2.0,1150000,1360.0,9247.0,1972,95148,3546,1142180,0.77,East San Jose,Ashish Agrawal,ARAA REALTY,,1972,
+348,881.0,San Jose,Santa Clara County,CA,3595 Deedham Dr,3.0,2.0,1349000,1532.0,8642.0,1984,95148,3800,1367300,0.77,Evergreen,Sherry Hagen,Coldwell Banker Realty,Tract,1984,
+349,1309.0,San Francisco,San Francisco County,CA,360 Arlington St,3.0,4.0,3495000,2670.0,0.0,0,94131,11905,3650000,0.67,Glen Park,Jonathan B. Deason,Vanguard Properties,"Contemporary,Modern/High Tech,Victorian",0,2.5
+350,1002.0,Fremont,Alameda County,CA,36001 Cabrillo Dr,3.0,2.0,1150000,1148.0,5662.0,1957,94536,3399,1180383,0.81,Cabrillo,Hector Vega,Russell E. Gross RE,Traditional,1957,2.5
+351,888.0,Fremont,Alameda County,CA,36544 Montecito Dr,4.0,3.0,2295000,2584.0,9147.0,1967,94536,6084,2220031,0.81,Niles,Kathy Bartle,Legacy Real Estate & Assoc.,Ranch,1967,2.5
+352,900.0,San Francisco,San Francisco County,CA,3666 Baker St,4.0,5.0,3500000,3889.0,4500.0,1922,94123,14192,4192000,0.67,Marina District,Marina Tsang,Coldwell Banker Realty,,1922,2.50
+354,774.0,San Francisco,San Francisco County,CA,37 Grafton Ave,2.0,2.0,1200000,1550.0,2495.0,1925,94112,3800,1355200,0.67,Ingleside,Trecia Knapp,Sotheby's International Realty,,1925,2.5
+355,731.0,San Jose,Santa Clara County,CA,3727 Chambord Ct,3.0,3.0,999000,1366.0,2613.0,1996,95127,3527,992417,0.77,Alum Rock-East Foothills,Donald Huey,Coldwell Banker Realty,Contemporary,1996,2.5
+356,883.0,Fremont,Alameda County,CA,37405 Gillett Rd,4.0,3.0,1940000,2196.0,4852.0,2000,94536,4250,1863400,0.81,Centerville,RusSell Dinh,Real Estate Source Inc,Contemporary,2000,2.5
+357,1084.0,San Jose,Santa Clara County,CA,3753 Caravella Dr,4.0,3.0,2099888,1937.0,5998.0,1973,95117,4698,2196700,0.77,West San Jose,Colin Clancy,KW Bay Area Estates,,1973,
+358,757.0,San Jose,Santa Clara County,CA,3764 Rhoda Dr,5.0,3.0,1799000,2376.0,6080.0,1973,95117,5499,1870139,0.77,West San Jose,David Giambruno,KW Bay Area Estates,,1973,
+359,750.0,San Jose,Santa Clara County,CA,38 N Almaden Blvd UNIT 1011,2.0,2.0,999888,1333.0,8884.478927203065,2008,95110,3699,1003739,0.77,Downtown,Coco Tan,Keller Williams Realty-Silicon Valley,,2008,
+360,813.0,San Jose,Santa Clara County,CA,38 N Almaden Blvd UNIT 916,1.0,1.0,775000,953.0,8884.478927203065,2008,95110,2900,777722,0.77,Downtown,David Lillo,DPL Real Estate,,2008,
+361,1190.0,San Francisco,San Francisco County,CA,38 Sharon St #A,1.0,1.0,775000,651.0,4375.0,1900,94114,,,0.67,Mission Dolores,Joshua Altman,Redfin,,1900,2.5
+362,780.0,San Francisco,San Francisco County,CA,380 10th St UNIT 23,1.0,2.0,1150000,1475.0,15831.0,2004,94103,4600,1150000,0.67,South of Market,Vikki Hoven,Pacific Edge,"Contemporary,Modern/High Tech",2004,2.5
+363,776.0,Fremont,Alameda County,CA,38061 Canyon Heights Dr,3.0,2.0,1237777,1596.0,6500.0,1954,94536,3714,1259800,0.81,Canyon Heights,Frank Cavaco,MAXIN Real Estate Inc.,"Cottage,Traditional",1954,2.5
+364,537.0,San Jose,Santa Clara County,CA,381 Destino Cir,4.0,3.0,1048888,1954.0,1263.0,2006,95133,4375,1059670,0.77,North Valley,Jung-yuan Lin,Realty One Group Infinity,Contemporary,2006,
+365,745.0,San Jose,Santa Clara County,CA,382 Fontanelle Dr,4.0,2.0,1149000,1542.0,6912.0,1980,95111,3800,1171000,0.77,Evergreen,Erika Carrasco,Intero Real Estate Services,,1980,
+366,1052.0,Fremont,Alameda County,CA,38419 Timpanogas Cir,3.0,2.0,1598888,1520.0,6046.0,1955,94536,3768,1624230,0.81,Canyon Heights,Paymon Ghafouri,Paymon Real Estate Group,,1955,
+367,778.0,Santa Clara,Santa Clara County,CA,3901 Lick Mill Blvd APT 407,1.0,1.0,699800,900.0,8884.478927203065,2005,95054,2894,704911,0.77,,Mei Ling,8 Blocks Real Estate,,2005,
+368,581.0,San Jose,Santa Clara County,CA,391 Lassenpark Cir,5.0,3.0,1299000,2236.0,5636.0,1971,95136,4500,1325331,0.77,Blossom Valley,Rusty Paap,Intero Real Estate Services,,1971,
+369,740.0,San Francisco,San Francisco County,CA,4 Jennifer Pl,1.0,1.0,950000,1284.0,17082.0,2000,94107,3990,953667,0.67,South of Market,Gary G. DeMars,Corcoran Global Living,,2000,2.5
+370,801.0,San Francisco,San Francisco County,CA,40 Westwood Dr,5.0,4.0,2498000,3120.0,4273.0,1917,94112,8500,2589800,0.67,Westwood Park,Scott A. Rose,Corcoran Global Living,"Traditional,Vintage",1917,2.5
+371,1445.0,San Francisco,San Francisco County,CA,401 Harrison St APT 25B,2.0,2.0,1895000,1311.0,56022.0,2014,94105,6799,1852255,0.67,Rincon Hill,Derek M. Jackson,Vanguard Properties,,2014,2.5
+372,1103.0,San Francisco,San Francisco County,CA,403 Main St APT 620N,2.0,2.0,1195000,1083.0,29037.0,1997,94105,4999,1157700,0.67,Rincon Hill,Hung K. Kwok,MaxReal,Art Deco,1997,2.5
+373,870.0,Santa Clara,Santa Clara County,CA,4033 Crandall Cir,3.0,3.0,1648000,1894.0,2374.0,2004,95054,,,0.77,,Melissa Elaina,Real Estate eBroker,Contemporary,2004,2.5
+374,786.0,San Jose,Santa Clara County,CA,4050 Cadwallader Ave,5.0,3.0,1998500,2542.0,8049.0,1978,95121,5263,1784200,0.77,Evergreen,Aida Soriano,Coldwell Banker Realty,Contemporary,1978,
+375,917.0,San Francisco,San Francisco County,CA,4055-4057 Cesar Chavez St,4.0,4.0,2299000,2506.0,2278.0,1910,94131,9879,2411867,0.67,Noe Valley,Craig Ackerman,Proof Real Estate,,1910,2.5
+376,1346.0,Fremont,Alameda County,CA,40689 Canyon Heights Dr,4.0,2.0,2299000,1708.0,6969.0,1975,94539,5801,2229500,0.81,Kimber-Gomes,Estela Riener,Coldwell Banker Realty,Ranch,1975,3
+377,671.0,San Jose,Santa Clara County,CA,4088 Victoria Park Dr,4.0,2.0,1398000,2084.0,6128.0,1970,95136,4200,1429471,0.77,Blossom Valley,Connie Miller,Compass,Ranch,1970,
+378,1038.0,San Jose,Santa Clara County,CA,409 Mayellen Ave,3.0,2.0,1275000,1228.0,6769.0,1920,95126,3949,1298376,0.77,Rose Garden,Lana Wong Doerpmund,Christie's International Real Estate Sereno,,1920,
+379,781.0,San Jose,Santa Clara County,CA,411 Nerdy Ave,4.0,2.0,949000,1215.0,5048.0,1958,95111,3714,959700,0.77,Edenvale - Seven Trees,Manuel Jaimes,Coldwell Banker Realty,,1958,
+380,1175.0,Fremont,Alameda County,CA,4173 Blewett St,3.0,2.0,1349000,1148.0,5998.0,1958,94538,3599,1349001,0.81,South Sundale,Sam Araj,Compass,,1958,
+381,753.0,San Jose,Santa Clara County,CA,418 Royale Park Dr,4.0,3.0,1599000,2124.0,6050.0,1970,95136,4250,1631412,0.77,Blossom Valley,Sheila Gennaro,Compass,"Tract,Traditional",1970,
+382,940.0,Fremont,Alameda County,CA,4182 Isola Dr,4.0,2.0,1888000,2008.0,11761.0,1978,94555,5054,1848097,0.81,Lakes and Birds,Pamela Tran,Redfin,Contemporary,1978,2
+383,920.0,San Francisco,San Francisco County,CA,42 Wilder St,3.0,2.0,2195000,2386.0,2375.0,1938,94131,,,0.67,Glen Park,Cece A. Doricko,Compass,"Mediterranean,Spanish,Traditional",1938,2.5
+384,966.0,San Francisco,San Francisco County,CA,420 Noe St #1A,2.0,1.0,879000,910.0,3750.0,1900,94114,,,0.67,Castro,Sean Jeremy Weinstock,Vanguard Properties,,1900,2.5
+385,985.0,San Francisco,San Francisco County,CA,420 Noe St #3C,3.0,2.0,1749000,1775.0,3750.0,1900,94114,,,0.67,Castro,Sean Jeremy Weinstock,Vanguard Properties,,1900,2.5
+386,944.0,San Francisco,San Francisco County,CA,420 Noe St,8.0,6.0,4308000,4565.0,3750.0,1900,94114,5495,4396520,0.67,Castro,Sean Jeremy Weinstock,Vanguard Properties,,1900,2.5
+387,1109.0,San Francisco,San Francisco County,CA,425 Dellbrook Ave,3.0,2.0,1855000,1672.0,4072.0,1958,94131,5095,1856031,0.67,Clarendon Heights,Gary J. Snow,Compass,Mid-Century,1958,2.5
+388,493.0,San Francisco,San Francisco County,CA,430-432 Girard St,4.0,3.0,1259000,2555.0,3001.0,1975,94134,8950,,0.67,Portola,Darin J. Holwitz,Compass,"Contemporary,Mid-Century",1975,2.5
+389,969.0,San Jose,Santa Clara County,CA,430 Vaughn Ave,2.0,1.0,1095000,1130.0,4003.0,1920,95128,3200,1112100,0.77,Burbank,Brandon Schaeffer,Coldwell Banker Realty,,1920,
+390,569.0,San Francisco,San Francisco County,CA,431-433 12th Ave,4.0,4.0,1798000,3160.0,3001.0,1922,94118,4699,1871000,0.67,Inner Richmond,Hiroyuki Nagamine,Compass,,1922,2.5
+391,840.0,Fremont,Alameda County,CA,43139 Calle Sagrada,4.0,4.0,1995000,2374.0,1306.0,2019,94539,4500,1993789,0.81,Mission San Jose,Surinder Gill,Compass,Contemporary,2019,2.5
+392,881.0,Fremont,Alameda County,CA,43150 Calle Familia,4.0,4.0,2049888,2327.0,1742.0,2016,94539,5373,2015800,0.81,Mission San Jose,Faridoon Lodin,Alliance Bay Realty,Contemporary,2016,2.5
+393,863.0,Fremont,Alameda County,CA,43154 Calle Familia,4.0,4.0,2049888,2374.0,1742.0,2017,94539,4500,2039029,0.81,Mission San Jose,Faridoon Lodin,Alliance Bay Realty,Contemporary,2017,2.5
+394,1127.0,San Francisco,San Francisco County,CA,4330 20th St,4.0,2.0,2198000,1950.0,2064.0,1900,94114,3899,,0.67,Eureka Valley,Marylene Notarianni,Compass,,1900,
+395,1562.0,Fremont,Alameda County,CA,43393 Mission Blvd,3.0,1.0,1799000,1152.0,7840.0,1912,94539,3195,1803100,0.81,Mission San Jose,Viva Bakshi,Intero Real Estate Services,Bungalow,1912,2.5
+396,790.0,San Jose,Santa Clara County,CA,4351 Kingspark Dr,4.0,2.0,1249000,1581.0,5662.0,1971,95136,4034,1167800,0.77,Blossom Valley,Jim Hitcher,Coldwell Banker Realty,Contemporary,1971,2.50
+397,945.0,San Francisco,San Francisco County,CA,438 Steiner St,3.0,2.0,1695000,1794.0,2885.0,1890,94117,,,0.67,Lower Haight,Kevin K. Ho,Vanguard Properties,"Contemporary,Modern/High Tech,Traditional,Victorian,Vintage",1890,2.5
+398,1087.0,Fremont,Alameda County,CA,43847 N Moray St,7.0,5.0,3358899,3090.0,7405.0,1989,94539,5282,3347796,0.81,Cameron Hills,Linda Young,Top Mission Realty & Invest,Contemporary,1989,2.25
+399,501.0,San Francisco,San Francisco County,CA,4392 Mission St #94,2.0,1.0,749000,1496.0,2522.0,1906,94112,,,0.67,,Victor E. Borelli,Compass,Edwardian,1906,2.500
+400,911.0,San Francisco,San Francisco County,CA,442 14th St,3.0,2.0,1188000,1304.0,2624.0,1907,94103,,,0.67,Mission Dolores,Shelley D. Trew,Vanguard Properties,"Edwardian,Victorian",1907,2.5
+401,1010.0,Fremont,Alameda County,CA,44283 Lupine Pl,3.0,2.0,1980000,1960.0,8102.0,1969,94539,4250,1949500,0.81,Weibel,Vikram Prashar,Dogpatch Real Estate Management,Traditional,1969,2
+402,781.0,Fremont,Alameda County,CA,44306 Paiute Ct,5.0,4.0,3195000,4091.0,15659.0,1980,94539,8027,3102854,0.81,Weibel,Tina Broyles,eXp Realty of California Inc,Tudor,1980,
+403,1154.0,San Francisco,San Francisco County,CA,4438 17th St,4.0,2.0,1950000,1690.0,2186.0,1900,94114,6229,2120800,0.67,Buena Vista,Ted Bartlett,Compass,,1900,2.5
+404,1041.0,Fremont,Alameda County,CA,4439 Ashwood Cmn,4.0,3.0,1749000,1680.0,3484.0,1987,94538,3879,1465400,0.81,Grimmer,Sunmeet Anand,WDB Realty and Finance Inc.,"Craftsman,Traditional",1987,2.5
+405,1195.0,San Francisco,San Francisco County,CA,445 Roosevelt Way,3.0,2.0,1799000,1505.0,2761.0,1953,94114,5899,1909500,0.67,Buena Vista,"Shao Ying ""Shirley"" Liang",Bay Real Estate Group,,1953,2.5
+406,782.0,Fremont,Alameda County,CA,4452 Mattos Dr,5.0,2.0,1750000,2238.0,7667.0,1958,94536,3949,1548300,0.81,Glenmoor,Jeff Purcell,Home Buyers Realty,Traditional,1958,2.5
+407,1010.0,Fremont,Alameda County,CA,4467 Red Oak Cmn,3.0,3.0,1650000,1633.0,3920.0,1986,94538,3800,1650013,0.81,Grimmer,Jason Huang,"Nihow Real Estate, Inc.",Other,1986,2.5
+408,738.0,San Francisco,San Francisco County,CA,45 Galilee Ln APT 4,2.0,1.0,620000,840.0,0.0,0,94115,3549,,0.0,Western Addition,Jana B. Farrell,Coldwell Banker Realty,,0,2.5
+409,960.0,San Francisco,San Francisco County,CA,45 Pinehurst Way,3.0,1.0,1698000,1768.0,3105.0,1928,94127,3778,1884700,0.67,Mount Davidson Manor,Alex Sobieski,Redfin,,1928,
+410,1190.0,San Francisco,San Francisco County,CA,451 Kansas St UNIT 551,1.0,1.0,819000,688.0,8884.478927203065,2007,94107,3499,813809,0.67,Potrero Hill,Nina Kim,Intero Real Estate Services,,2007,
+411,642.0,San Jose,Santa Clara County,CA,4549 Cimarron River Ct,3.0,3.0,925000,1441.0,8884.478927203065,1973,95136,3800,945000,0.77,Blossom Valley,Bonnie Moran,Coldwell Banker Realty,,1973,
+412,846.0,Fremont,Alameda County,CA,45630 Montclaire Ter,5.0,5.0,4200000,4962.0,27007.0,2001,94539,9444,,0.81,Mission Hills,Lowell King,REALTY EXPERTS,See Remarks,2001,2.5
+413,802.0,Fremont,Alameda County,CA,460 Chenab Ct,5.0,4.0,3650000,4550.0,11761.0,1991,94539,9912,3565473,0.81,Vineyards-Avalon,Surinder Gill,Compass,Contemporary,1991,2.5
+414,1071.0,San Francisco,San Francisco County,CA,461 2nd St APT C317,1.0,1.0,695000,649.0,0.0,1907,94107,,,0.67,Rincon Hill,Mac Rogers,KW Advisors,Other,1907,2.5
+415,915.0,San Jose,Santa Clara County,CA,4620 Japonica Way,3.0,2.0,1195000,1306.0,8884.478927203065,1972,95129,3699,1232313,0.77,West San Jose,William Lister,Coldwell Banker Realty,Mediterranean,1972,
+416,797.0,Fremont,Alameda County,CA,46950 Zapotec Dr,4.0,3.0,3598000,4512.0,11417.0,1986,94539,9461,3533750,0.81,Vineyards-Avalon,Frank Liu,Compass,,1986,
+417,1003.0,Fremont,Alameda County,CA,4706 Central Ave,3.0,2.0,1179000,1175.0,5538.0,1953,94536,3399,1128200,0.81,Glenmoor,Shannon A Murphy,Park Avenue Real Estate Group,Ranch,1953,2.5
+418,433.0,San Francisco,San Francisco County,CA,474 Valley St,7.0,8.0,2495000,5768.0,2848.0,1910,94131,4500,2534200,0.67,Noe Valley,Michael P. Kramer,Polaris Realty,,1910,2.5
+419,914.0,Fremont,Alameda County,CA,47618 Wabana Cmn,5.0,4.0,3200000,3501.0,16988.0,2017,94539,7948,3088300,0.81,Warm Springs,Michelle Chiou,Prestige Realty,Contemporary,2017,2.5
+420,921.0,Santa Clara,Santa Clara County,CA,478 N Winchester Blvd APT 9,1.0,1.0,690000,749.0,8884.478927203065,1984,95050,2499,695000,0.77,,Julia Brittner,Coldwell Banker Realty,,1984,
+421,648.0,San Francisco,San Francisco County,CA,479 Church St,2.0,0.0,2250000,3470.0,2596.0,1924,94114,3306,,0.67,Mission Dolores,Gino V. Franco,Marcus & Millichap,,1924,2.5
+422,1216.0,San Francisco,San Francisco County,CA,480 Mission Bay Blvd N UNIT 318,2.0,2.0,1650000,1357.0,122891.0,2012,94158,,,0.67,Mission Bay,Crystal C. Injo,Compass,,2012,2.5
+423,538.0,San Francisco,San Francisco County,CA,4826 Mission St #4828,3.085964912280702,0.0,2295000,4266.0,2920.0,1952,94112,,,0.67,Cayuga,Adam D. Filly,Compass,,1952,2.5
+424,862.0,San Jose,Santa Clara County,CA,483 S Monroe St,3.0,3.0,1299000,1507.0,8884.478927203065,2012,95128,3999,1339226,0.77,West San Jose,Huy Han,KW Silicon City,,2012,
+425,909.0,San Francisco,San Francisco County,CA,484 Roosevelt Way,2.0,2.0,1995000,2195.0,2935.0,1908,94114,,,0.67,Buena Vista,Todd Wiley,Compass,Cottage,1908,2.5
+426,917.0,Fremont,Alameda County,CA,48977 Manna Grass Ter,4.0,3.0,1838800,2006.0,2696.0,2008,94539,4300,1783078,0.81,East Industrial,Sean Chen,Intero Real Estate Services,,2008,
+427,1108.0,San Jose,Santa Clara County,CA,4913 Paseo Olivos,3.0,2.0,1688000,1524.0,6006.0,1962,95130,3850,1748800,0.77,West San Jose,Don Perry,Coldwell Banker Realty,,1962,
+428,858.0,Fremont,Alameda County,CA,4925 Folsum Way,4.0,3.0,1460000,1701.0,5998.0,1963,94538,3984,1461100,0.81,Sundale,Maria De La Serna,Tipp Realty at Glen Cove,Contemporary,1963,2.5
+429,245.0,San Jose,Santa Clara County,CA,493 Chateau La Salle Dr #493,2.0,2.0,329900,1344.0,8884.478927203065,1980,95111,3399,,0.77,Fairgrounds,Todd Su,,,1980,
+430,644.0,San Jose,Santa Clara County,CA,4950 Paseo Tranquillo,3.0,2.0,899000,1395.0,1464.0,1981,95118,3750,909393,0.77,Cambrian Park,GAVIN PLOTKIN,VISMAR REAL ESTATE,,1981,2.000
+431,1212.0,San Francisco,San Francisco County,CA,50 Henry St,3.0,2.0,1895000,1564.0,2874.0,1904,94114,4495,,0.67,Duboce Triangle,Tim A. Brown,KW Advisors,"Modern/High Tech,Victorian",1904,2.5
+432,376.0,San Francisco,San Francisco County,CA,506-510 Divisadero St,12.0,6.0,2195000,5844.0,2780.0,1895,94117,,,0.67,,Liam Fitzpatrick,Shamrock Real Estate Company,A-Frame,1895,2.5%
+433,1007.0,San Jose,Santa Clara County,CA,5068 Tifton Way,4.0,2.0,1450000,1440.0,5950.0,1964,95118,4200,1446500,0.77,Cambrian Park,Mary Pope-Handy,Christie's International Real Estate Sereno,Ranch,1964,
+434,965.0,Fremont,Alameda County,CA,5088 Amberwood Dr,4.0,3.0,1699888,1761.0,3920.0,1989,94555,4099,1642100,0.81,Ardenwood,Shilpa Putchakayala,Compass,Contemporary,1989,2.5
+435,1039.0,San Jose,Santa Clara County,CA,509 Willow St,2.0,1.0,899000,865.0,3057.0,1929,95125,2949,908242,0.77,Willow Glen,Renee Ross,Compass,,1929,
+436,824.0,San Francisco,San Francisco County,CA,51 Innes Ct APT 406,5.0,2.0,1290000,1566.0,0.0,0,94124,4500,,0.67,Hunters Point,Timothy J. McMullen,Real Brokerage Technologies,,0,2
+437,642.0,San Francisco,San Francisco County,CA,51 Innes Ct UNIT 402,3.0,2.0,949000,1478.0,0.0,2017,94124,4495,979000,0.67,Hunters Point,Bernadette Troncales Weir,Catalina Realty Investments,Contemporary,2017,2.5
+438,228.0,San Jose,Santa Clara County,CA,510 Saddle Brook Dr SPC 119,3.0,2.0,309000,1354.0,8884.478927203065,1997,95136,3679,316174,0.77,Blossom Valley,Chris Truong,,,1997,
+439,160.0,San Jose,Santa Clara County,CA,513 Mill Pond Dr,2.0,2.0,279000,1740.0,8884.478927203065,1978,95125,,,0.77,Fairgrounds,Alliance Manufactured Homes,,,1978,
+440,1355.0,San Jose,Santa Clara County,CA,5167 Redstone Dr,3.0,2.0,1578000,1165.0,6738.0,1958,95124,4099,1512700,0.77,Cambrian Park,Ed Lafosse,Lafosse Asset Management,,1958,
+441,709.0,San Francisco,San Francisco County,CA,52 Innes Ct APT 403,3.0,2.0,999000,1409.0,0.0,2018,94124,4500,1018100,0.67,Hunters Point,Bernadette Troncales Weir,Catalina Realty Investments,Contemporary,2018,2.5
+442,185.0,San Jose,Santa Clara County,CA,520 Florentine Dr #520,3.0,2.0,325000,1760.0,8884.478927203065,1977,95123,,,0.77,Blossom Valley,Kathleen Peterson,,,1977,
+443,944.0,San Francisco,San Francisco County,CA,520 Natoma St APT 2,1.0,1.0,425000,450.0,2475.0,1911,94103,2741,,0.67,South of Market,Roger Heffner,Vanguard Properties,,1911,2.5
+444,919.2081850533808,San Francisco,San Francisco County,CA,521 Lake St,3.0,3.0,3850000,0.0,2500.0,1905,94118,,,0.67,Lake,Maria Marchetti,Sotheby's International Realty,Traditional,1905,2.5
+445,1055.0,San Francisco,San Francisco County,CA,525 Gough St APT 403,3.0,2.0,1449000,1374.0,12787.0,2005,94102,5495,1466422,0.67,Hayes Valley,Laura A O'malley,Berkshire Hathaway,Modern/High Tech,2005,2.5
+446,996.0,San Francisco,San Francisco County,CA,528 Hearst Ave,2.0,1.0,1295000,1300.0,3001.0,1923,94112,4650,1380000,0.67,Sunnyside,James S. McInerney,McInerney Real Estate,Traditional,1923,"2,5"
+447,954.0,Fremont,Alameda County,CA,5322 Tallman Ct,4.0,2.0,1559950,1635.0,11626.0,1963,94536,3999,1568200,0.81,Glenmoor,Ernie Boehm,Boehm & Associates,Traditional,1963,2.5
+448,996.0,Fremont,Alameda County,CA,5349 Audubon Park Ct,4.0,3.0,1575000,1581.0,8955.0,1963,94538,3925,1575002,0.81,Blacow,Scott Perry,KW Bay Area Estates,,1963,
+449,1029.0,San Francisco,San Francisco County,CA,535 Head St,3.0,1.0,1249000,1214.0,2495.0,1945,94132,3499,1061000,0.67,Ingleside Heights,Hugh D. Groocock,Corcoran Global Living,,1945,2.5
+450,905.0,San Jose,Santa Clara County,CA,5361 Garwood Dr,4.0,4.0,1999888,2211.0,6494.0,1964,95118,4200,2030492,0.77,Cambrian Park,Tracy Webb,Coldwell Banker Realty,Ranch,1964,
+451,886.0,San Jose,Santa Clara County,CA,539 Jackie Dr,4.0,2.0,1099950,1241.0,5231.0,1960,95111,3850,1112620,0.77,Fairgrounds,Steven Than,VS Realty & Loans Inc,Contemporary,1960,
+452,1071.0,Fremont,Alameda County,CA,544 Alcalde Way,4.0,3.0,2999000,2801.0,12196.0,1979,94539,7545,2896761,0.81,Mission San Jose,Sameer Singh,Keller Williams - Palo Alto,Contemporary,1979,2.5
+453,195.0,San Jose,Santa Clara County,CA,5450 Monterey Hwy SPC 5,3.0,2.0,299000,1536.0,8884.478927203065,1975,95111,3860,345300,0.77,Edenvale - Seven Trees,Hai Nguyen,,,1975,
+454,564.0,San Jose,Santa Clara County,CA,5461 Tyhurst Walkway APT 3,2.0,1.0,509000,903.0,1742.0,1970,95123,2594,537400,0.77,Blossom Valley,Charo Bhatt,Coldwell Banker Realty,Bungalow,1970,3
+455,928.0,San Francisco,San Francisco County,CA,551 11th Ave,4.0,3.0,1995000,2150.0,2996.0,1914,94118,,,0.67,Inner Richmond,Daria Saraf,Sotheby's International Realty,,1914,2.5
+456,898.0,San Jose,Santa Clara County,CA,5512 Manderston Dr,4.0,3.0,1880000,2094.0,6412.0,1998,95138,4099,1886445,0.77,Evergreen,Vivian Lee,Homeland Realty,,1998,
+457,1027.0,San Francisco,San Francisco County,CA,555 4th St UNIT 649,1.0,1.0,649000,632.0,63236.0,2006,94107,3099,613200,0.67,South of Market,Kathy Chan,Parc Bay Real Estate,Contemporary,2006,2.5
+458,592.0,San Jose,Santa Clara County,CA,5558 Judith St APT 1,2.0,1.0,535000,903.0,8884.478927203065,1970,95123,2499,546100,0.77,Blossom Valley,Leslie Arauz,Valley Real Estate Services,,1970,
+459,752.0,San Francisco,San Francisco County,CA,556 Arch St,3.0,2.0,1398000,1858.0,2495.0,1927,94132,3833,1318800,0.67,Ingleside,Mary C. Kern,Corcoran Global Living,Marina,1927,2.5
+460,766.0,San Francisco,San Francisco County,CA,56 Stratford Dr,4.0,2.0,1499000,1957.0,3602.0,1941,94132,6994,1678900,0.67,Stonestown,Jin Chen,Coldwell Banker Realty,,1941,2.5%
+461,919.2081850533808,San Francisco,San Francisco County,CA,561 Sanchez St,3.0,3.0,3500000,0.0,2748.0,0,94114,4500,3655221,0.67,Dolores Heights,Frank A. Nolan,Vanguard Properties,"Tudor,Modern/High Tech",0,3.0
+462,950.0,San Francisco,San Francisco County,CA,563 28th St,1.0,1.0,998000,1050.0,2814.0,0,94131,2999,1111100,0.67,Noe Valley,Joost A. Van de Water,Corcoran Global Living,"Cottage,Apartment,Spanish,Other",0,2.5
+463,632.0,San Jose,Santa Clara County,CA,566 Elk Ridge Way,2.0,2.0,674000,1067.0,8884.478927203065,1988,95136,2996,691400,0.77,Fairgrounds,Cristina Gonzalez,Compass,,1988,
+464,877.0,San Jose,Santa Clara County,CA,5698 Makati Cir APT F,1.0,1.0,476000,543.0,8884.478927203065,1982,95123,2225,435600,0.77,Blossom Valley,Girma Bizuneh,Real Estate eBroker Inc,,1982,
+465,869.0,San Francisco,San Francisco County,CA,57 Whittier St,2.0,2.0,998000,1148.0,2609.0,1927,94112,3800,,0.67,Crocker Amazon,Deanna Cotter,Coldwell Banker Realty,Marina,1927,2.5
+466,758.0,San Jose,Santa Clara County,CA,573 Richmond Ave,3.0,2.0,988000,1303.0,6115.0,1949,95128,3999,1124500,0.77,Rose Garden,Carlos Armas,Realty One Group Infinity,,1949,
+467,1265.0,San Francisco,San Francisco County,CA,574 Natoma St APT 403,1.0,1.0,515000,407.0,1816.0,2012,94103,2394,509800,0.67,South of Market,Winifred Helen Watson,Vanguard Properties,,2012,2.5
+468,811.0,San Jose,Santa Clara County,CA,5798 Ribchester Ct,4.0,3.0,1288000,1589.0,7605.0,1972,95123,4664,1314694,0.77,Blossom Valley,Moise Nahouraii,Intero Real Estate Services,Ranch,1972,
+469,923.0,San Jose,Santa Clara County,CA,582 Crystalberry Trl,4.0,3.0,1298988,1408.0,8884.478927203065,1972,95129,3699,1340200,0.77,West San Jose,Lakshmi Sathyanarayana,Compass,,1972,
+470,937.0,Santa Clara,Santa Clara County,CA,588 Saratoga Ave,3.0,2.0,1588000,1694.0,7200.0,1947,95050,4650,1647900,0.77,,Sean Crosier,HomePie.com,None,1947,2.5
+471,700.0,San Jose,Santa Clara County,CA,5880 Smoky Quartz Loop,3.0,4.0,1199000,1712.0,1711.0,2014,95123,3835,1203211,0.77,Santa Teresa,William Lister,Coldwell Banker Realty,Modern / High Tech,2014,
+472,767.0,San Jose,Santa Clara County,CA,5882 Pala Mesa Dr,4.0,3.0,1880000,2451.0,4756.0,2000,95123,4600,1652800,0.77,Blossom Valley,Jia Li,"Gemstone Estate, Inc.",,2000,
+473,1163.0,San Jose,Santa Clara County,CA,590 Chapman St,3.0,1.0,1199888,1032.0,5013.0,1946,95126,3499,1208700,0.77,Downtown,Robert Garcia,Redfin,,1946,
+474,855.0,Fremont,Alameda County,CA,598 Ginkgo Ter,4.0,4.0,1748000,2045.0,14374.0,2009,94539,4500,1700800,0.81,East Industrial,Faridoon Lodin,Alliance Bay Realty,Contemporary,2009,2.5
+475,678.0,San Francisco,San Francisco County,CA,601 Van Ness Ave APT 10,2.0,3.0,990000,1461.0,105807.0,1982,94102,,,0.67,Cathedral Hill,Daniel P. Langford,Corcoran Global Living,,1982,2.5
+476,730.0,San Francisco,San Francisco County,CA,601 Van Ness Ave APT 141,1.0,2.0,649000,889.0,105807.0,1982,94102,,,0.67,Cathedral Hill,Daniel P. Langford,Corcoran Global Living,,1982,2.5
+477,923.0,San Francisco,San Francisco County,CA,601 Van Ness Ave APT 311,1.0,1.0,515000,558.0,8884.478927203065,1982,94102,2600,505200,0.67,Cathedral Hill,Jessica Dong,RE/MAX-Accord,,1982,
+478,831.0,San Francisco,San Francisco County,CA,601 Van Ness Ave APT 623,1.0,1.0,599000,721.0,105807.0,1982,94102,3494,592200,0.67,Cathedral Hill,Daniel P. Langford,Corcoran Global Living,,1982,2.5
+479,877.0,San Francisco,San Francisco County,CA,601 Van Ness Ave APT 729,1.0,1.0,619000,706.0,105807.0,1982,94102,,,0.67,Cathedral Hill,Daniel P. Langford,Corcoran Global Living,,1982,2.5
+480,714.0,San Jose,Santa Clara County,CA,6028 Cahalan Ave,3.0,2.0,1125000,1576.0,6037.0,1967,95123,4012,1147400,0.77,Blossom Valley,Joseph Rubino,Coldwell Banker Realty,,1967,
+481,500.0,San Francisco,San Francisco County,CA,603-609 Peralta Ave,4.0,0.0,1750000,3500.0,3568.0,1959,94110,,,0.67,Bernal Heights,Payam J. Nejad,Colliers International,,1959,2.5
+482,1329.0,San Francisco,San Francisco County,CA,609 San Bruno Ave,4.0,4.0,3995000,3005.0,2495.0,1906,94107,4429,1388900,0.67,Potrero Hill,Derek M. Jackson,Vanguard Properties,,1906,2.5
+483,929.0,San Jose,Santa Clara County,CA,6094 Jacques Dr,4.0,2.0,1299999,1400.0,7061.0,1970,95123,3997,1333800,0.77,Blossom Valley,Chris Mosher,"Chris Mosher, Broker",,1970,
+484,1008.0,Santa Clara,Santa Clara County,CA,611 Kiely Blvd,4.0,3.0,1799000,1785.0,8276.0,1955,95051,5000,1842800,0.77,,Bret Fouche,Keller Williams Tri-Valley,Mid Century Modern,1955,2.5
+485,674.0,San Jose,Santa Clara County,CA,612 Coco Ct,3.0,3.0,1159000,1720.0,8884.478927203065,2019,95133,3850,1178486,0.77,Alum Rock-East Foothills,Cindy Lin,"Cindy Lin, Broker",,2019,
+486,1411.0,San Francisco,San Francisco County,CA,616 20th St UNIT 530,2.0,1.0,1050000,744.0,5497.0,2013,94107,3661,1040900,0.67,Dogpatch,Jeannie Gant,Gant Properties,Modern/High Tech,2013,2.5
+487,581.0,San Jose,Santa Clara County,CA,6197 Gerdts Dr,2.0,2.0,695000,1197.0,43.0,1974,95135,2799,686066,0.77,Evergreen,Judith McAlister,Intero Real Estate Services,,1974,
+488,508.0,San Jose,Santa Clara County,CA,6242 Gerdts Dr,2.0,2.0,775000,1526.0,8884.478927203065,1974,95135,3549,758400,0.77,Evergreen,Lisa Gault,The William Jefferies Company,,1974,
+489,642.0,San Jose,Santa Clara County,CA,628 Coyote Rd,3.0,1.0,899000,1400.0,5040.0,1958,95111,3566,908500,0.77,Edenvale - Seven Trees,Lorena Chavez,PMZ Real Estate,Other,1958,2.5
+490,1578.0,San Jose,Santa Clara County,CA,6376 Bollinger Rd,3.0,2.0,1788000,1133.0,6634.0,1959,95129,4150,1879700,0.77,West San Jose,Andrew Meunier,Coldwell Banker Realty,,1959,
+491,1109.0,San Francisco,San Francisco County,CA,64 Rosemont Pl,2.0,2.0,1595000,1438.0,2754.0,1928,94103,5899,1681800,0.67,Mission Dolores,Alexander T. Clark,The Front Steps,"Edwardian,Apartment,Marina",1928,2.5
+492,885.0,San Francisco,San Francisco County,CA,64 Waller St,2.0,2.0,1495000,1690.0,3437.0,1890,94102,,,0.67,Mint Hill,Edmond D. O'Sullivan,Elevation Real Estate,Victorian,1890,2.50
+493,1252.0,San Francisco,San Francisco County,CA,640 Davis St UNIT 21,3.0,3.0,2298000,1836.0,93126.0,1983,94111,,,0.67,North Waterfront,Dean Badessa,Sotheby's International Realty,,1983,2.5
+494,1098.0,San Jose,Santa Clara County,CA,641 Toyon Ave,3.0,1.0,1128000,1027.0,6359.0,1952,95127,3394,1222300,0.77,Alum Rock-East Foothills,Kim Lam,Premier Century Real Estate Services,,1952,
+495,1082.0,San Francisco,San Francisco County,CA,645 Capp St,3.0,3.0,2295000,2122.0,2131.0,1879,94110,,,0.67,Mission,Osman A. Dost,Compass,Victorian,1879,2.5
+496,1196.0,Santa Clara,Santa Clara County,CA,646 Bucher Ave,3.0,2.0,1815000,1518.0,5248.0,1954,95051,4200,1899226,0.77,,Mattie Baker,KW Silicon City,,1954,
+497,1028.0,San Francisco,San Francisco County,CA,647 Cole St,3.0,2.0,1895000,1844.0,2119.0,1904,94117,6936,2041900,0.67,Haight,Ricky Rakesh Shankar,"Panorama Properties SFBA, Inc.",Edwardian,1904,2.5
+498,942.0,Fremont,Alameda County,CA,647 Patoma Ct,4.0,3.0,1490000,1582.0,5662.0,1955,94536,3800,1446600,0.81,Canyon Heights,Rosario Rodriguez,Intero Real Estate Services,Bungalow,1955,2.5
+499,1272.0,San Jose,Santa Clara County,CA,6480 Wisteria Way,6.0,3.0,2800000,2202.0,6747.0,1960,95129,5899,2853659,0.77,West San Jose,Nina Kim,Intero Real Estate Services,,1960,
+500,825.0,San Francisco,San Francisco County,CA,65 Cleary Ct APT 7,3.0,2.0,1185000,1436.0,0.0,1962,94109,,,0.0,Cathedral Hill,Andrew J. Paolucci,Compass,Contemporary,1962,2.5
+501,943.0,San Francisco,San Francisco County,CA,650 2nd St UNIT 502,4.0,4.0,3950000,4190.0,0.0,1996,94107,10136,2994500,0.67,South Beach,Don W. DeFranco,Sotheby's International Realty,Contemporary,1996,2.5
+502,1147.0,San Francisco,San Francisco County,CA,6509 Geary Blvd APT 204,2.0,1.0,875000,763.0,5100.0,0,94121,3049,813100,0.67,Outer Richmond,Sevan L. Kevorkian,Remax Prestigious Properties,,0,2.5
+503,944.0,San Jose,Santa Clara County,CA,6516 Almaden Rd,3.0,2.0,1499950,1589.0,6599.0,1965,95120,4200,1527200,0.77,Almaden Valley,Jim Myrick,KW Bay Area Estates,,1965,
+504,761.0,San Francisco,San Francisco County,CA,652 Lakeview Ave,4.0,4.0,1895000,2490.0,2495.0,2013,94112,,,0.67,Ingleside,Kok-po Sam Ng,"Grand Pacific Int'l., Ltd.","Contemporary,Modern/High Tech",2013,2.5
+505,768.0,San Jose,Santa Clara County,CA,654 Calpella Dr,4.0,3.0,1499999,1954.0,7440.0,1974,95136,4200,1545600,0.77,Blossom Valley,Jennifer Zhou,Alliance Bay Realty,,1974,
+506,978.0,San Francisco,San Francisco County,CA,655 Corbett Ave #105,1.0,1.0,739000,756.0,17101.0,1964,94114,,,0.67,Clarendon Heights,Erik J. McIntosh,Berkshire Hathaway-Franciscan,Mid-Century,1964,2.5
+507,1117.0,San Jose,Santa Clara County,CA,6577 Little Falls Dr,4.0,3.0,2368000,2120.0,10136.0,1963,95120,5249,2368300,0.77,Almaden Valley,Jeannie Frangos,Berkshire Hathaway HomeServices Drysdale Prop,Ranch,1963,
+508,726.0,San Jose,Santa Clara County,CA,658 Albanese Cir,4.0,2.0,1078000,1484.0,5998.0,1977,95111,3800,1090462,0.77,Fairgrounds,Hayley Dowsing-connolly,Real Estate eBroker Inc,,1977,
+509,1562.0,San Francisco,San Francisco County,CA,66 Bishop St,1.0,1.0,749888,480.0,2500.0,1922,94134,2250,811300,0.67,Visitacion Valley,Marylou Lopez,Coldwell Banker Realty,,1922,
+510,953.0,San Francisco,San Francisco County,CA,66 Cleary Ct APT 1009,3.0,2.0,1050000,1102.0,65374.0,1963,94109,5340,1058074,0.67,Cathedral Hill,John Murphy,Compass,,1963,2.5
+511,1055.0,San Jose,Santa Clara County,CA,6625 Hampton Dr,4.0,2.0,2025000,1920.0,11591.0,1966,95120,4800,2029800,0.77,Almaden Valley,Mark Chiavetta,Coldwell Banker Realty,,1966,
+512,930.0,San Francisco,San Francisco County,CA,664 27th Ave,4.0,3.0,1999999,2150.0,2996.0,1922,94121,5994,2204100,0.67,Outer Richmond,Joel M. Starkman,HomeSmart Bay Area,Contemporary,1922,3
+513,855.0,San Francisco,San Francisco County,CA,664-666 Natoma St #664,3.0,2.0,1197000,1400.0,2500.0,1857,94103,,,0.67,South of Market,Stephen C Gordy,Corcoran Global Living,Victorian,1857,2.5
+514,919.2081850533808,San Francisco,San Francisco County,CA,666 Post St APT 602,1.0,1.0,579000,0.0,0.0,1926,94109,2996,567971,0.0,Lower Nob Hill,Jennet Nazzal,Compass,Art Deco,1926,2.5
+515,1014.0,San Francisco,San Francisco County,CA,667 Guerrero St,2.0,1.0,1195000,1178.0,2295.0,1957,94110,,,0.67,Mission Dolores,Brandi Lynne Mayo,Compass,Mid-Century,1957,2.5
+516,716.0,San Jose,Santa Clara County,CA,67 Mill Stone Ln,3.0,3.0,1270000,1773.0,3902.0,1988,95136,3850,1209600,0.77,Blossom Valley,Joseph Frederick,Coldwell Banker Realty,,1988,
+517,1230.0,Santa Clara,Santa Clara County,CA,674 Cupples Ct,4.0,3.0,1925000,1565.0,5475.0,1955,95051,4600,1988400,0.77,,Shelley Canario,RE/MAX Realty Partners,,1955,
+518,748.0,San Jose,Santa Clara County,CA,675 Albion Dr,4.0,2.0,1198888,1603.0,6037.0,1969,95136,4045,1234857,0.77,Blossom Valley,Sean Cooper,eXp Realty of California Inc,Ranch,1969,
+519,769.0,San Francisco,San Francisco County,CA,68 Cayuga Ave,5.0,4.0,1695000,2205.0,2495.0,1900,94112,,,0.67,Mission Terrace,Edmond D. O'Sullivan,Elevation Real Estate,,1900,2.50
+520,981.0,San Jose,Santa Clara County,CA,6826 Tunbridge Way,4.0,3.0,2198000,2240.0,9500.0,1972,95120,4800,2199571,0.77,Almaden Valley,Brian Chancellor,Christie's International Real Estate Sereno,,1972,
+521,1214.0,San Francisco,San Francisco County,CA,688 Douglass St,5.0,5.0,3795000,3127.0,2495.0,1908,94114,9950,3988073,0.67,Upper Market,Colleen M. Cotter,Vanguard Properties,"Edwardian,Victorian",1908,2.5
+522,1212.0,San Francisco,San Francisco County,CA,691 Panorama Dr,3.0,2.0,1499000,1237.0,3223.0,1957,94131,5000,1585100,0.67,Midtown Terrace,Craig Ackerman,Proof Real Estate,Mid-Century,1957,2.5
+523,791.0,San Jose,Santa Clara County,CA,7085 Via Ramada,3.0,2.0,1199999,1517.0,6285.0,1968,95139,3699,1185300,0.77,Santa Teresa,Lex Orosco,BRG Realty,,1968,
+524,1602.0,San Francisco,San Francisco County,CA,716 Rhode Island St,3.0,4.0,3700000,2310.0,2495.0,0,94107,,,0.67,Potrero Hill,Isabelle Grotte,Compass,Modern/High Tech,0,2.5
+525,1477.0,San Francisco,San Francisco County,CA,718 Long Bridge St APT 1404,2.0,2.0,2175000,1473.0,84867.0,2016,94158,6499,2175000,0.67,Mission Bay,Jane E. Hopkins,MaxReal,Modern/High Tech,2016,2.5
+526,1018.0,Fremont,Alameda County,CA,72 Montevideo Cir,4.0,3.0,2550000,2504.0,5662.0,1991,94539,6618,2476456,0.81,Mission San Jose,Kathleen Gaw,Intero Real Estate Services,Spanish,1991,2.5
+527,1389.0,Santa Clara,Santa Clara County,CA,720 Baylor Dr,4.0,2.0,2400000,1728.0,8503.0,1961,95051,4749,2488900,0.77,,Katie Weaver,Realty ONE Group Complete,,1961,2.5
+528,468.0,San Jose,Santa Clara County,CA,7235 Via Mimosa,2.0,2.0,849000,1815.0,8884.478927203065,1981,95135,3614,857300,0.77,Evergreen,Dee Ramirez,Keller Williams San Jose Gateway,,1981,
+529,1061.0,San Francisco,San Francisco County,CA,729 Congo St,4.0,4.0,3410000,3215.0,1936.0,2013,94131,,,0.67,Glen Park,Wendy M. Storch,Sotheby's International Realty,Modern/High Tech,2013,2.5
+530,995.0,San Francisco,San Francisco County,CA,731 Avalon Ave,2.0,1.0,1138000,1144.0,2495.0,1938,94112,,,0.67,Excelsior,Kirk M. Dahle,Vanguard Properties,,1938,2.5
+531,753.0,San Jose,Santa Clara County,CA,732 Asbury St,3.0,1.0,750000,996.0,4156.0,1922,95126,3499,1000200,0.77,Downtown,Artemio Saldivar,TNT Real Estate Services,,1922,2
+532,1108.0,San Francisco,San Francisco County,CA,733 Castro St,4.0,3.0,1999000,1804.0,2626.0,1900,94114,7570,2072422,0.67,Eureka Valley,Craig Ackerman,Proof Real Estate,Victorian,1900,2.5
+533,1040.0,San Francisco,San Francisco County,CA,74 New Montgomery St UNIT 412,1.0,1.0,865000,832.0,17865.0,1914,94105,3850,865000,0.67,South of Market,Michael L. Bellings,Compass,Contemporary,1914,2.5
+534,966.0,San Francisco,San Francisco County,CA,75 Wood St,4.0,2.0,1495000,1548.0,1543.0,1870,94118,,,0.67,Laurel Heights,Paul Barbagelata,BarbCo,Victorian,1870,2.5
+535,919.2081850533808,San Francisco,San Francisco County,CA,751 Madrid St,2.0,3.0,1199000,0.0,2495.0,1931,94112,4500,1270900,0.67,Excelsior,Grace Ieong,Coldwell Banker Realty,,1931,2.5
+536,698.0,San Francisco,San Francisco County,CA,754 Oak St,4.0,3.0,1795000,2570.0,4883.0,1900,94117,,,0.67,Lower Haight,Missy Wyant Smit,Compass,,1900,2.5
+537,993.0,San Francisco,San Francisco County,CA,761 39th Ave,4.0,4.0,1995000,2010.0,2996.0,1924,94121,5994,2214500,0.67,Outer Richmond,Shu Pu,Century 21 Real Estate Allianc,,1924,2.5
+538,773.0,Santa Clara,Santa Clara County,CA,763 Valley Way,3.0,3.0,1998000,2584.0,8960.0,1960,95051,5969,2094600,0.77,,Jordan Mott,Intero Real Estate Services,,1960,
+539,1730.0,San Francisco,San Francisco County,CA,765 Market St APT 23F,3.0,4.0,4750000,2745.0,60152.0,2001,94103,,,0.67,South of Market,Gregg Lynn,Sotheby's International Realty,Modern/High Tech,2001,2.5
+540,1107.0,San Francisco,San Francisco County,CA,8 Buchanan St UNIT 808,2.0,2.0,1095000,989.0,0.0,2014,94102,4749,1095005,0.67,Mint Hill,Tanya S. Dzhibrailova,"NHB Real Estate, Inc.",Contemporary,2014,2.5
+541,880.0,San Francisco,San Francisco County,CA,8 Delano Ave,2.0,1.0,1299000,1476.0,3140.0,1950,94112,3499,1403300,0.67,Mission Terrace,Eva Stoyanov,Compass,,1950,2.5
+542,535.0,San Francisco,San Francisco County,CA,8 Knott Ct,4.0,3.0,1200000,2243.0,3049.0,1979,94112,5000,1262800,0.67,Crocker Amazon,Ginger Faith,Golden Canyon Properties,Contemporary,1979,2.5
+543,987.0,San Francisco,San Francisco County,CA,80 Teresita Blvd,3.0,2.0,1995000,2022.0,5318.0,1937,94127,6497,2087400,0.67,Miraloma Park,Ly Ly,Compass,,1937,2.5
+544,858.0,San Francisco,San Francisco County,CA,802 Shotwell St,2.0,2.0,1395000,1625.0,2841.0,1904,94110,5279,1461800,0.67,Mission,Natalie Kitchen,Compass,Victorian,1904,2.5
+545,801.0,San Francisco,San Francisco County,CA,806 47th Ave #806,3.0,3.0,1448000,1808.0,4749.0,1878,94121,,,0.67,Outer Richmond,Elisabeth Scheidl,Coldwell Banker Realty,Victorian,1878,2.5
+546,1334.0,San Jose,Santa Clara County,CA,810 Goodwin Ave,3.0,2.0,1498000,1123.0,5762.0,1954,95128,3800,1520900,0.77,Willow Glen,Kevin Swartz,Atria Real Estate,Eichler,1954,
+547,664.0,San Jose,Santa Clara County,CA,811 Modern Ice Dr,2.0,3.0,855000,1288.0,8884.478927203065,2009,95112,3300,849530,0.77,Downtown,Chloe Zhu,BQ Group Inc,,2009,
+548,920.0,San Francisco,San Francisco County,CA,822 28th Ave,5.0,3.0,1998000,2171.0,2996.0,1936,94121,5999,1756800,0.67,Outer Richmond,Suki Tsang,Chance Real Estate,,1936,2.5
+549,954.0,San Francisco,San Francisco County,CA,83 McAllister St APT 107,0.0,1.0,395000,414.0,0.0,2007,94102,2250,394900,0.67,Civic Center,Franck Costa,Vanguard Properties,,2007,2.5
+550,759.0,San Jose,Santa Clara County,CA,830 N 11th St,3.0,2.0,1048000,1381.0,5384.0,1956,95112,3766,1058691,0.77,Downtown,Katie Duus,Christie's International Real Estate Sereno,,1956,
+551,957.0,San Francisco,San Francisco County,CA,8300 Geary Blvd,2.0,1.0,1388000,1450.0,2082.0,1941,94121,,,0.67,Sutro Heights,Hon Lai Wong,LUX Realty Group,Contemporary,1941,2.5
+552,442.0,San Francisco,San Francisco County,CA,835 Broadway St,6.0,3.0,2750000,6216.0,1877.0,1909,94133,,,0.67,Russian Hill,Matthew C. Sheridan,"Maven Commercial, Inc.",,1909,2.5
+553,400.0,San Francisco,San Francisco County,CA,835 Diamond St,3.0,3.0,1200000,3000.0,2000.0,0,94114,8950,,0.67,Noe Valley,Victor Quan,"Bay Realty Investments, Inc.",Victorian,0,2.5
+554,703.0,San Jose,Santa Clara County,CA,848 Cape Flattery Pl,4.0,2.0,1549888,2206.0,6609.0,0,95133,4490,1575946,0.77,North Valley,Randy Aquino,Fifty Hills Real Estate,Ranch,0,2
+555,750.0,San Francisco,San Francisco County,CA,851 Van Ness Ave UNIT 400,2.0,2.0,935000,1247.0,13169.0,2002,94109,5695,949713,0.67,Cathedral Hill,Suki Tsang,Chance Real Estate,Modern/High Tech,2002,2.5
+556,740.0,San Jose,Santa Clara County,CA,855 Hummingbird Dr,4.0,3.0,1488000,2011.0,7592.0,1956,95125,4600,1503149,0.77,Willow Glen,Amy A. McCafferty,Golden Gate Sotheby's International Realty,Ranch,1956,
+557,852.0,San Francisco,San Francisco County,CA,860 Brussels St,2.0,2.0,959000,1125.0,3001.0,1929,94134,3998,,0.67,Portola,Jeffrey A. Salgado,Compass,,1929,2.5
+558,1070.0,Santa Clara,Santa Clara County,CA,865 Fremont St,3.0,3.0,1988888,1858.0,10040.0,1926,95050,3949,2028700,0.77,,Jay Mehta,Keller Williams Realty - Cupertino,,1926,
+559,808.0,San Francisco,San Francisco County,CA,865 Hayes St #B,2.0,1.0,970000,1201.0,0.0,1900,94117,4395,,0.67,Hayes Valley,Hugh D. Groocock,Corcoran Global Living,Victorian,1900,2.5
+560,959.0,Fremont,Alameda County,CA,87 Burnham Pl,4.0,3.0,1499950,1564.0,6534.0,1980,94539,3884,1492444,0.81,Kimber-Gomes,Dhevin Tran,"Dhevin Tran, Broker",Contemporary,1980,2.500
+561,866.0,San Francisco,San Francisco County,CA,875 La Playa St APT 379,1.0,1.0,925000,1068.0,23066.0,1983,94121,2499,775100,0.67,Outer Richmond,Dennis Magliocco,"eXp Realty of California, Inc",,1983,2
+562,564.0,San Jose,Santa Clara County,CA,876 Catkin Ct,2.0,2.0,519888,922.0,923.0,1988,95128,2999,519888,0.77,,Eugene Korsunsky,Intempus Realty,,1988,
+563,795.0,San Jose,Santa Clara County,CA,88 Bush St UNIT 3155,2.0,2.0,950000,1195.0,474.0,2008,95126,3399,957037,0.77,Downtown,Sondra Weber,Compass,Modern / High Tech,2008,
+564,707.0,San Jose,Santa Clara County,CA,88 E San Fernando St UNIT 1010,1.0,1.0,628888,889.0,8884.478927203065,2008,95113,2879,631310,0.77,Downtown,Alfredo Melendez Zuniga,Kollab Real Estate,,2008,
+565,955.0,San Jose,Santa Clara County,CA,88 E San Fernando St UNIT 1805,2.0,2.0,1050000,1100.0,8884.478927203065,2008,95113,3399,1050000,0.77,Downtown,Christina Khosrowabadi,Redefine Real Estate,,2008,
+566,780.0,San Jose,Santa Clara County,CA,88 E San Fernando St UNIT 606,0.0,1.0,525000,673.0,8884.478927203065,2008,95113,2499,525477,0.77,Downtown,Tony Sum,Upswing Real Estate,"Luxury,Modern / High Tech",2008,
+567,872.0,San Jose,Santa Clara County,CA,895 Boulder Dr,4.0,2.0,1448888,1661.0,13695.0,1965,95132,4500,1353900,0.77,Berryessa,Jill Ballard GRI,Intero Real Estate Services,Ranch,1965,
+568,367.0,San Jose,Santa Clara County,CA,900 Golden Wheel Park Dr #159,1.0,1.0,220000,600.0,8884.478927203065,1967,95112,,,0.77,North Valley,Timmy Le,,,1967,
+569,644.0,San Jose,Santa Clara County,CA,919 Macduff Ct,4.0,3.0,1798000,2792.0,10193.0,1978,95127,5499,1825989,0.77,East San Jose,Dominique Van Ryckeghem,Compass,Ranch,1978,
+570,1167.0,San Francisco,San Francisco County,CA,926 Douglass St,3.0,2.0,1495000,1281.0,1625.0,1950,94114,5429,1593127,0.67,Upper Market,Danielle H. Lazier,Vivre Real Estate,,1950,2.5
+571,1075.0,San Francisco,San Francisco County,CA,926 Goettingen St,2.0,1.0,899000,836.0,1751.0,1952,94134,2595,972000,0.67,Portola,Dennis Sanchez,Berri Real Estate,Contemporary,1952,2.5
+573,512.0,San Francisco,San Francisco County,CA,936-940 Pacific Ave,4.0,3.0,1998000,3900.0,1751.0,1923,94133,3994,2058680,0.67,Russian Hill,David  Anderson,The Source Real Estate Company,Edwardian,1923,2.5
+574,919.2081850533808,San Francisco,San Francisco County,CA,939-941 Oak St,3.0,0.0,1388000,0.0,3438.0,1890,94117,4550,1497400,0.67,Lower Haight,Victoria Gangi,Corcoran Global Living,,1890,2.5%
+575,989.0,San Francisco,San Francisco County,CA,949 Fell St APT 3,3.0,3.0,1175000,1188.0,7562.0,1909,94117,6695,,0.67,Lower Haight,Tim A. Brown,KW Advisors,,1909,2.5
+576,1124.0,San Francisco,San Francisco County,CA,954 Teresita Blvd,3.0,2.0,1500000,1335.0,2500.0,1937,94127,4966,1602100,0.67,Miraloma Park,Steve Gallagher,Coldwell Banker Realty,Traditional,1937,2.5
+577,919.2081850533808,San Francisco,San Francisco County,CA,964 Potrero Ave,1.0,1.0,725000,0.0,2500.0,1906,94110,3695,745500,0.67,Mission,Drew N. Wilkerson,Vanguard Properties,Victorian,1906,2.5
+578,714.0,San Jose,Santa Clara County,CA,974 Lake Isabella Way,2.0,2.0,714999,1002.0,8884.478927203065,1988,95123,2999,715000,0.77,Almaden Valley,Jace Hider,Intero Real Estate Services,,1988,
+579,919.2081850533808,San Francisco,San Francisco County,CA,987 14th St,1.0,1.0,825000,0.0,1481.0,0,94114,,,0.67,Duboce Triangle,Michael H. Shaw,Vanguard Properties,Edwardian,0,2.5
+580,755.0,San Jose,Santa Clara County,CA,988 Silicon Dr,2.0,2.0,749999,994.0,1149.0,1985,95126,3049,756436,0.77,Downtown,Anna Maria Valenzuela,KW Bay Area Estates,Unknown,1985,
+581,1576.0,San Francisco,San Francisco County,CA,999 Green St APT 1704,2.0,2.0,2649000,1681.0,14265.0,1964,94133,6499,2653800,0.67,Russian Hill,Mary Lou Castellanos,Sotheby's International Realty,Contemporary,1964,2.5
